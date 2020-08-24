@@ -1,0 +1,26 @@
+pay_methods_id,date_added,pay_method,pay_method_sort,pay_method_language
+1,2006-09-05 20:19:53,Bank Transfer Payments,0,1
+2,2006-09-05 20:19:53,PayPal,0,1
+3,2006-09-05 20:19:53,Check/Money Order,0,1
+4,2006-09-05 20:19:53,Purchase Order,0,1
+5,2006-09-05 20:19:53,Credit Card,0,1
+6,2006-09-05 20:19:53,Authorize.net,0,1
+1,2006-09-05 20:19:53,Bank Transfer Payments,0,5
+2,2006-09-05 20:19:53,PayPal,0,5
+3,2006-09-05 20:19:53,Check/Money Order,0,5
+4,2006-09-05 20:19:53,Purchase Order,0,5
+5,2006-09-05 20:19:53,Credit Card,0,5
+6,2006-09-05 20:19:53,Authorize.net,0,5
+1,2006-09-05 20:19:53,Bank Transfer Payments,0,3
+2,2006-09-05 20:19:53,PayPal,0,3
+3,2006-09-05 20:19:53,Check/Money Order,0,3
+4,2006-09-05 20:19:53,Purchase Order,0,3
+5,2006-09-05 20:19:53,Credit Card,0,3
+6,2006-09-05 20:19:53,Authorize.net,0,3
+1,2006-09-05 20:19:53,Bank Transfer Payments,0,4
+2,2006-09-05 20:19:53,PayPal,0,4
+3,2006-09-05 20:19:53,Check/Money Order,0,4
+4,2006-09-05 20:19:53,Purchase Order,0,4
+5,2006-09-05 20:19:53,Credit Card,0,4
+6,2006-09-05 20:19:53,Authorize.net,0,4
+

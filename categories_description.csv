@@ -1,0 +1,86 @@
+language_id,categories_id,categories_name,categories_description,categories_htc_desc_tag,categories_htc_title_tag,categories_head_desc_tag,categories_heading_title,categories_head_title_tag,categories_htc_description,categories_htc_keywords_tag,categories_head_keywords_tag
+1,1,Hardware,This is the category description for Hardware!!,NULL,NULL,<blank>,Hardware,NULL,NULL,NULL,<blank>
+1,2,Software,Browse our great software selection,NULL,NULL,<blank>,Software,NULL,NULL,NULL,<blank>
+1,3,DVD Movies,Enjoy our great selection of DVD's,NULL,NULL,<blank>,DVD Movies,NULL,NULL,NULL,<blank>
+1,4,Graphics Cards,We carry a massive selection of graphics cards!,NULL,NULL,<blank>,Graphics Cards,NULL,NULL,NULL,<blank>
+1,5,Printers,<blank>,NULL,NULL,<blank>,Printers,NULL,NULL,NULL,<blank>
+1,6,Monitors,<blank>,NULL,NULL,<blank>,Monitors,NULL,NULL,NULL,<blank>
+1,7,Speakers,<blank>,NULL,NULL,<blank>,Speakers,NULL,NULL,NULL,<blank>
+1,8,Keyboards,<blank>,NULL,NULL,<blank>,Keyboards,NULL,NULL,NULL,<blank>
+1,9,Mice,<blank>,NULL,NULL,<blank>,Mice,NULL,NULL,NULL,<blank>
+1,10,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,11,Science Fiction,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,12,Comedy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,13,Cartoons,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,14,Thriller,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,15,Drama,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,16,Memory,"Upgrade your computers memory! It is fast, cheap and easy to do.",NULL,NULL,<blank>,Memory,NULL,NULL,NULL,<blank>
+1,17,CDROM Drives,"This is the category for CD Rom Drives. This is testing the function of the 'Categories Description Mod for MS2. It seems to be working nicely. If you want to try it, go to the admin, and edit the categories of your choice. <br><br><b>Is this bold? Does HTML work?</b>",NULL,NULL,<blank>,CD Rom Drives,NULL,NULL,NULL,<blank>
+1,18,Simulation,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,19,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,20,Strategy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+1,21,Gift Certificate,Buy a Gift Certificate for you friends or loved ones,NULL,NULL,<blank>,Gift Certificate,NULL,NULL,NULL,<blank>
+5,1,Hardware,This is the category description for Hardware!!,NULL,NULL,<blank>,Hardware,NULL,NULL,NULL,<blank>
+5,2,Software,Browse our great software selection,NULL,NULL,<blank>,Software,NULL,NULL,NULL,<blank>
+5,3,DVD Movies,Enjoy our great selection of DVD's,NULL,NULL,<blank>,DVD Movies,NULL,NULL,NULL,<blank>
+5,4,Graphics Cards,We carry a massive selection of graphics cards!,NULL,NULL,<blank>,Graphics Cards,NULL,NULL,NULL,<blank>
+5,5,Printers,<blank>,NULL,NULL,<blank>,Printers,NULL,NULL,NULL,<blank>
+5,6,Monitors,<blank>,NULL,NULL,<blank>,Monitors,NULL,NULL,NULL,<blank>
+5,7,Speakers,<blank>,NULL,NULL,<blank>,Speakers,NULL,NULL,NULL,<blank>
+5,8,Keyboards,<blank>,NULL,NULL,<blank>,Keyboards,NULL,NULL,NULL,<blank>
+5,9,Mice,<blank>,NULL,NULL,<blank>,Mice,NULL,NULL,NULL,<blank>
+5,10,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,11,Science Fiction,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,12,Comedy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,13,Cartoons,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,14,Thriller,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,15,Drama,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,16,Memory,"Upgrade your computers memory! It is fast, cheap and easy to do.",NULL,NULL,<blank>,Memory,NULL,NULL,NULL,<blank>
+5,17,CDROM Drives,"This is the category for CD Rom Drives. This is testing the function of the 'Categories Description Mod for MS2. It seems to be working nicely. If you want to try it, go to the admin, and edit the categories of your choice. <br><br><b>Is this bold? Does HTML work?</b>",NULL,NULL,<blank>,CD Rom Drives,NULL,NULL,NULL,<blank>
+5,18,Simulation,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,19,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,20,Strategy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+5,21,Gift Certificate,Buy a Gift Certificate for you friends or loved ones,NULL,NULL,<blank>,Gift Certificate,NULL,NULL,NULL,<blank>
+3,1,Hardware,This is the category description for Hardware!!,NULL,NULL,<blank>,Hardware,NULL,NULL,NULL,<blank>
+3,2,Software,Browse our great software selection,NULL,NULL,<blank>,Software,NULL,NULL,NULL,<blank>
+3,3,DVD Movies,Enjoy our great selection of DVD's,NULL,NULL,<blank>,DVD Movies,NULL,NULL,NULL,<blank>
+3,4,Graphics Cards,We carry a massive selection of graphics cards!,NULL,NULL,<blank>,Graphics Cards,NULL,NULL,NULL,<blank>
+3,5,Printers,<blank>,NULL,NULL,<blank>,Printers,NULL,NULL,NULL,<blank>
+3,6,Monitors,<blank>,NULL,NULL,<blank>,Monitors,NULL,NULL,NULL,<blank>
+3,7,Speakers,<blank>,NULL,NULL,<blank>,Speakers,NULL,NULL,NULL,<blank>
+3,8,Keyboards,<blank>,NULL,NULL,<blank>,Keyboards,NULL,NULL,NULL,<blank>
+3,9,Mice,<blank>,NULL,NULL,<blank>,Mice,NULL,NULL,NULL,<blank>
+3,10,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,11,Science Fiction,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,12,Comedy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,13,Cartoons,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,14,Thriller,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,15,Drama,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,16,Memory,"Upgrade your computers memory! It is fast, cheap and easy to do.",NULL,NULL,<blank>,Memory,NULL,NULL,NULL,<blank>
+3,17,CDROM Drives,"This is the category for CD Rom Drives. This is testing the function of the 'Categories Description Mod for MS2. It seems to be working nicely. If you want to try it, go to the admin, and edit the categories of your choice. <br><br><b>Is this bold? Does HTML work?</b>",NULL,NULL,<blank>,CD Rom Drives,NULL,NULL,NULL,<blank>
+3,18,Simulation,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,19,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,20,Strategy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+3,21,Gift Certificate,Buy a Gift Certificate for you friends or loved ones,NULL,NULL,<blank>,Gift Certificate,NULL,NULL,NULL,<blank>
+4,1,Hardware,This is the category description for Hardware!!,NULL,NULL,<blank>,Hardware,NULL,NULL,NULL,<blank>
+4,2,Software,Browse our great software selection,NULL,NULL,<blank>,Software,NULL,NULL,NULL,<blank>
+4,3,DVD Movies,Enjoy our great selection of DVD's,NULL,NULL,<blank>,DVD Movies,NULL,NULL,NULL,<blank>
+4,4,Graphics Cards,We carry a massive selection of graphics cards!,NULL,NULL,<blank>,Graphics Cards,NULL,NULL,NULL,<blank>
+4,5,Printers,<blank>,NULL,NULL,<blank>,Printers,NULL,NULL,NULL,<blank>
+4,6,Monitors,<blank>,NULL,NULL,<blank>,Monitors,NULL,NULL,NULL,<blank>
+4,7,Speakers,<blank>,NULL,NULL,<blank>,Speakers,NULL,NULL,NULL,<blank>
+4,8,Keyboards,<blank>,NULL,NULL,<blank>,Keyboards,NULL,NULL,NULL,<blank>
+4,9,Mice,<blank>,NULL,NULL,<blank>,Mice,NULL,NULL,NULL,<blank>
+4,10,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,11,Science Fiction,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,12,Comedy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,13,Cartoons,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,14,Thriller,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,15,Drama,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,16,Memory,"Upgrade your computers memory! It is fast, cheap and easy to do.",NULL,NULL,<blank>,Memory,NULL,NULL,NULL,<blank>
+4,17,CDROM Drives,"This is the category for CD Rom Drives. This is testing the function of the 'Categories Description Mod for MS2. It seems to be working nicely. If you want to try it, go to the admin, and edit the categories of your choice. <br><br><b>Is this bold? Does HTML work?</b>",NULL,NULL,<blank>,CD Rom Drives,NULL,NULL,NULL,<blank>
+4,18,Simulation,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,19,Action,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,20,Strategy,NULL,NULL,NULL,<blank>,NULL,NULL,NULL,NULL,<blank>
+4,21,Gift Certificate,Buy a Gift Certificate for you friends or loved ones,NULL,NULL,<blank>,Gift Certificate,NULL,NULL,NULL,<blank>
+

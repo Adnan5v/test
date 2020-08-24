@@ -1,0 +1,236 @@
+infobox_id,template_id,location,date_added,box_heading,box_template,last_modified,infobox_define,infobox_display,display_in_column,infobox_file_name,box_heading_font_color
+39,2,1,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES,no,left,categories.php,#000000
+40,2,2,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES1,no,left,categories1.php,#000000
+41,2,3,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES2,no,left,categories2.php,#000000
+42,2,4,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES3,no,left,categories3.php,#000000
+43,2,5,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES4,yes,left,categories4.php,#000000
+44,2,6,2005-12-24 10:15:50,Select Template,infobox,2005-12-24 10:15:50,BOX_HEADING_TEMPLATE_SELECT,yes,left,theme_select.php,#000000
+45,2,7,2005-12-24 10:15:50,Reviews,infobox,2005-12-24 10:15:50,BOX_HEADING_REVIEWS,yes,left,reviews.php,#000000
+46,2,8,2005-12-24 10:15:50,Specials,infobox,2005-12-24 10:15:50,BOX_HEADING_SPECIALS,yes,left,specials.php,#000000
+51,2,9,2005-12-24 10:15:50,Quick Find,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH,yes,left,search.php,#000000
+52,2,10,2005-12-24 10:15:50,Manufacturers,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#000000
+53,2,11,2005-12-24 10:15:50,Manufacturers Info,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURER_INFO,yes,left,manufacturer_info.php,#000000
+54,2,12,2005-12-24 10:15:50,Notifications,infobox,2005-12-24 10:15:50,BOX_HEADING_NOTIFICATIONS,yes,left,product_notifications.php,#000000
+55,2,13,2005-12-24 10:15:50,Tell A Friend,infobox,2005-12-24 10:15:50,BOX_HEADING_TELL_A_FRIEND,yes,left,tell_a_friend.php,#000000
+56,2,14,2005-12-24 10:15:50,Latest products,infobox,2005-12-24 10:15:50,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#000000
+57,2,15,2005-12-24 10:15:50,Shop by Price,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOP_BY_PRICE,yes,left,shop_by_price.php,#000000
+58,2,16,2005-12-24 10:15:50,Featured,infobox,2005-12-24 10:15:50,BOX_HEADING_FEATURED,yes,left,featured.php,#000000
+59,2,17,2005-12-24 10:15:50,Affiliate Info,infobox,2005-12-24 10:15:50,BOX_HEADING_AFFILIATE,yes,left,affiliate.php,#000000
+60,2,18,2005-12-24 10:15:50,Links,infobox,2005-12-24 10:15:50,BOX_HEADING_LINKS,yes,left,links.php,#000000
+61,2,19,2005-12-24 10:15:50,Who's Online,infobox,2005-12-24 10:15:50,BOX_HEADING_WHOS_ONLINE,yes,left,whos_online.php,#000000
+62,2,20,2005-12-24 10:15:50,Google Ad,infobox,2005-12-24 10:15:50,BOX_GOOGLE_AD_BANNER_HEADING,yes,left,googlead.php,#000000
+63,2,1,2005-12-24 10:15:50,Shopping Cart,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOPPING_CART,yes,right,shopping_cart.php,#000000
+64,2,2,2005-12-24 10:15:50,Gift Voucher,infobox,2005-12-24 10:15:50,BOX_HEADING_GIFT_VOUCHER,yes,right,customer_gv.php,#000000
+65,2,3,2005-12-24 10:15:50,Your Account,infobox,2005-12-24 10:15:50,BOX_HEADING_LOGIN,yes,right,loginbox.php,#000000
+66,2,4,2005-12-24 10:15:50,Best Sellers,infobox,2005-12-24 10:15:50,BOX_HEADING_BESTSELLERS,yes,right,best_sellers.php,#000000
+67,2,5,2005-12-24 10:15:50,Order History,infobox,2005-12-24 10:15:50,BOX_HEADING_CUSTOMER_ORDERS,yes,right,order_history.php,#000000
+68,2,6,2005-12-24 10:15:50,Languages,infobox,2005-12-24 10:15:50,BOX_HEADING_LANGUAGES,yes,right,languages.php,#000000
+69,2,7,2005-12-24 10:15:50,Currencies,infobox,2005-12-24 10:15:50,BOX_HEADING_CURRENCIES,yes,right,currencies.php,#000000
+70,2,8,2005-12-24 10:15:50,Information,infobox,2004-04-17 10:06:01,BOX_HEADING_INFORMATION_TABLE,yes,right,information_table.php,#000000
+71,2,9,2005-12-24 10:15:50,You Have a Download,infobox,2005-12-24 10:15:50,BOX_HEADING_DOWNLOADS,yes,right,downloads.php,#000000
+72,2,10,2005-12-24 10:15:50,Donate,infobox,2005-12-24 10:15:50,BOX_HEADING_DONATE,yes,right,donate.php,#000000
+73,2,11,2005-12-24 10:15:50,Cards We Accept,infobox,2005-12-24 10:15:50,BOX_HEADING_CARD1,yes,right,card1.php,#000000
+74,2,12,2005-12-24 10:15:50,Advance Search,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH1,yes,right,search1.php,#000000
+75,2,13,2005-12-24 10:15:50,Wishlist,infobox,2005-12-24 10:15:50,BOX_HEADING_WISHLIST,yes,right,wishlist.php,#000000
+76,2,14,2005-12-24 10:15:50,Advertise,infobox,2005-12-24 10:15:50,BOX_AD_BANNER_HEADING,yes,right,boxad.php,#000000
+77,3,1,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES,no,left,categories.php,#0000FF
+78,3,2,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES1,no,left,categories1.php,#0000FF
+79,3,3,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES2,no,left,categories2.php,#0000FF
+80,3,4,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES3,no,left,categories3.php,#0000FF
+81,3,5,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES4,yes,left,categories4.php,#0000FF
+82,3,7,2005-12-24 10:15:50,Select Template,infobox,2005-12-24 10:15:50,BOX_HEADING_TEMPLATE_SELECT,yes,left,theme_select.php,#0000FF
+83,3,6,2005-12-24 10:15:50,Reviews,infobox,2006-02-03 12:11:38,BOX_HEADING_REVIEWS,yes,left,reviews.php,#0000FF
+84,3,8,2005-12-24 10:15:50,Specials,infobox,2005-12-24 10:15:50,BOX_HEADING_SPECIALS,yes,left,specials.php,#0000FF
+89,3,9,2005-12-24 10:15:50,Quick Find,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH,yes,left,search.php,#0000FF
+90,3,10,2005-12-24 10:15:50,Manufacturers,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#0000FF
+91,3,11,2005-12-24 10:15:50,Manufacturers Info,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURER_INFO,yes,left,manufacturer_info.php,#0000FF
+92,3,12,2005-12-24 10:15:50,Notifications,infobox,2005-12-24 10:15:50,BOX_HEADING_NOTIFICATIONS,yes,left,product_notifications.php,#0000FF
+93,3,13,2005-12-24 10:15:50,Tell A Friend,infobox,2005-12-24 10:15:50,BOX_HEADING_TELL_A_FRIEND,yes,left,tell_a_friend.php,#0000FF
+94,3,14,2005-12-24 10:15:50,Latest products,infobox,2005-12-24 10:15:50,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#0000FF
+95,3,15,2005-12-24 10:15:50,Shop by Price,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOP_BY_PRICE,yes,left,shop_by_price.php,#0000FF
+96,3,16,2005-12-24 10:15:50,Featured,infobox,2005-12-24 10:15:50,BOX_HEADING_FEATURED,yes,left,featured.php,#0000FF
+97,3,17,2005-12-24 10:15:50,Affiliate Info,infobox,2005-12-24 10:15:50,BOX_HEADING_AFFILIATE,yes,left,affiliate.php,#0000FF
+98,3,18,2005-12-24 10:15:50,Links,infobox,2005-12-24 10:15:50,BOX_HEADING_LINKS,yes,left,links.php,#0000FF
+99,3,19,2005-12-24 10:15:50,Who's Online,infobox,2005-12-24 10:15:50,BOX_HEADING_WHOS_ONLINE,yes,left,whos_online.php,#0000FF
+100,3,20,2005-12-24 10:15:50,Google Ad,infobox,2005-12-24 10:15:50,BOX_GOOGLE_AD_BANNER_HEADING,yes,left,googlead.php,#0000FF
+101,3,1,2005-12-24 10:15:50,Shopping Cart,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOPPING_CART,yes,right,shopping_cart.php,#0000FF
+102,3,2,2005-12-24 10:15:50,Gift Voucher,infobox,2005-12-24 10:15:50,BOX_HEADING_GIFT_VOUCHER,yes,right,customer_gv.php,#0000FF
+103,3,3,2005-12-24 10:15:50,Your Account,infobox,2005-12-24 10:15:50,BOX_HEADING_LOGIN,yes,right,loginbox.php,#0000FF
+104,3,4,2005-12-24 10:15:50,Best Sellers,infobox,2005-12-24 10:15:50,BOX_HEADING_BESTSELLERS,yes,right,best_sellers.php,#0000FF
+105,3,5,2005-12-24 10:15:50,Order History,infobox,2005-12-24 10:15:50,BOX_HEADING_CUSTOMER_ORDERS,yes,right,order_history.php,#0000FF
+106,3,6,2005-12-24 10:15:50,Languages,infobox,2005-12-24 10:15:50,BOX_HEADING_LANGUAGES,yes,right,languages.php,#0000FF
+107,3,7,2005-12-24 10:15:50,Currencies,infobox,2005-12-24 10:15:50,BOX_HEADING_CURRENCIES,yes,right,currencies.php,#0000FF
+108,3,8,2005-12-24 10:15:50,Information,infobox,2004-04-17 10:06:01,BOX_HEADING_INFORMATION_TABLE,yes,right,information_table.php,#0000FF
+109,3,9,2005-12-24 10:15:50,You Have a Download,infobox,2005-12-24 10:15:50,BOX_HEADING_DOWNLOADS,yes,right,downloads.php,#0000FF
+110,3,10,2005-12-24 10:15:50,Donate,infobox,2005-12-24 10:15:50,BOX_HEADING_DONATE,yes,right,donate.php,#0000FF
+111,3,11,2005-12-24 10:15:50,Cards We Accept,infobox,2005-12-24 10:15:50,BOX_HEADING_CARD1,yes,right,card1.php,#0000FF
+112,3,12,2005-12-24 10:15:50,Advance Search,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH1,yes,right,search1.php,#0000FF
+113,3,13,2005-12-24 10:15:50,Wishlist,infobox,2005-12-24 10:15:50,BOX_HEADING_WISHLIST,yes,right,wishlist.php,#0000FF
+114,3,14,2005-12-24 10:15:50,Advertise,infobox,2005-12-24 10:15:50,BOX_AD_BANNER_HEADING,yes,right,boxad.php,#0000FF
+115,4,1,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES,no,left,categories.php,#000000
+116,4,2,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES1,no,left,categories1.php,#000000
+117,4,3,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES2,no,left,categories2.php,#000000
+118,4,4,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES3,no,left,categories3.php,#000000
+119,4,5,2005-12-24 10:15:50,Categories,infobox,2005-12-24 10:15:50,BOX_HEADING_CATEGORIES4,yes,left,categories4.php,#000000
+120,4,6,2005-12-24 10:15:50,Select Template,infobox,2005-12-24 10:15:50,BOX_HEADING_TEMPLATE_SELECT,yes,left,theme_select.php,#000000
+121,4,7,2005-12-24 10:15:50,Reviews,infobox,2005-12-24 10:15:50,BOX_HEADING_REVIEWS,yes,left,reviews.php,#000000
+122,4,8,2005-12-24 10:15:50,Specials,infobox,2005-12-24 10:15:50,BOX_HEADING_SPECIALS,yes,left,specials.php,#000000
+279,7,25,0000-00-00 00:00:00,Authors,infobox,2006-02-03 09:53:30,BOX_HEADING_AUTHORS,yes,left,authors.php,#FFFFFF
+278,7,24,0000-00-00 00:00:00,Articles,infobox,2006-02-03 09:52:59,BOX_HEADING_ARTICLES,yes,left,articles.php,#FFFFFF
+277,7,23,0000-00-00 00:00:00,Upcoming Events,infobox,2006-02-03 10:09:47,BOX_HEADING_CALENDER,yes,left,calendar.php,#FFFFFF
+275,7,12,2006-01-12 21:29:47,Wishlist,infobox,2006-01-12 21:29:47,BOX_HEADING_WISHLIST,yes,right,wishlist.php,#FFFFFF
+127,4,9,2005-12-24 10:15:50,Quick Find,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH,yes,left,search.php,#000000
+128,4,10,2005-12-24 10:15:50,Manufacturers,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#000000
+129,4,11,2005-12-24 10:15:50,Manufacturers Info,infobox,2005-12-24 10:15:50,BOX_HEADING_MANUFACTURER_INFO,yes,left,manufacturer_info.php,#000000
+130,4,12,2005-12-24 10:15:50,Notifications,infobox,2005-12-24 10:15:50,BOX_HEADING_NOTIFICATIONS,yes,left,product_notifications.php,#000000
+131,4,13,2005-12-24 10:15:50,Tell A Friend,infobox,2005-12-24 10:15:50,BOX_HEADING_TELL_A_FRIEND,yes,left,tell_a_friend.php,#000000
+132,4,14,2005-12-24 10:15:50,Latest products,infobox,2005-12-24 10:15:50,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#000000
+133,4,15,2005-12-24 10:15:50,Shop by Price,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOP_BY_PRICE,yes,left,shop_by_price.php,#000000
+134,4,16,2005-12-24 10:15:50,Featured,infobox,2005-12-24 10:15:50,BOX_HEADING_FEATURED,yes,left,featured.php,#000000
+135,4,17,2005-12-24 10:15:50,Affiliate Info,infobox,2005-12-24 10:15:50,BOX_HEADING_AFFILIATE,yes,left,affiliate.php,#000000
+136,4,18,2005-12-24 10:15:50,Links,infobox,2005-12-24 10:15:50,BOX_HEADING_LINKS,yes,left,links.php,#000000
+137,4,19,2005-12-24 10:15:50,Who's Online,infobox,2005-12-24 10:15:50,BOX_HEADING_WHOS_ONLINE,yes,left,whos_online.php,#000000
+138,4,20,2005-12-24 10:15:50,Google Ad,infobox,2005-12-24 10:15:50,BOX_GOOGLE_AD_BANNER_HEADING,yes,left,googlead.php,#000000
+139,4,1,2005-12-24 10:15:50,Shopping Cart,infobox,2005-12-24 10:15:50,BOX_HEADING_SHOPPING_CART,yes,right,shopping_cart.php,#000000
+140,4,2,2005-12-24 10:15:50,Gift Voucher,infobox,2005-12-24 10:15:50,BOX_HEADING_GIFT_VOUCHER,yes,right,customer_gv.php,#000000
+141,4,3,2005-12-24 10:15:50,Your Account,infobox,2005-12-24 10:15:50,BOX_HEADING_LOGIN,yes,right,loginbox.php,#000000
+142,4,4,2005-12-24 10:15:50,Best Sellers,infobox,2005-12-24 10:15:50,BOX_HEADING_BESTSELLERS,yes,right,best_sellers.php,#000000
+143,4,5,2005-12-24 10:15:50,Order History,infobox,2005-12-24 10:15:50,BOX_HEADING_CUSTOMER_ORDERS,yes,right,order_history.php,#000000
+144,4,6,2005-12-24 10:15:50,Languages,infobox,2005-12-24 10:15:50,BOX_HEADING_LANGUAGES,yes,right,languages.php,#000000
+145,4,7,2005-12-24 10:15:50,Currencies,infobox,2005-12-24 10:15:50,BOX_HEADING_CURRENCIES,yes,right,currencies.php,#000000
+146,4,8,2005-12-24 10:15:50,Information,infobox,2004-04-17 10:06:01,BOX_HEADING_INFORMATION_TABLE,yes,right,information_table.php,#000000
+147,4,9,2005-12-24 10:15:50,You Have a Download,infobox,2005-12-24 10:15:50,BOX_HEADING_DOWNLOADS,yes,right,downloads.php,#000000
+148,4,10,2005-12-24 10:15:50,Donate,infobox,2005-12-24 10:15:50,BOX_HEADING_DONATE,yes,right,donate.php,#000000
+149,4,11,2005-12-24 10:15:50,Cards We Accept,infobox,2005-12-24 10:15:50,BOX_HEADING_CARD1,yes,right,card1.php,#000000
+150,4,12,2005-12-24 10:15:50,Advance Search,infobox,2005-12-24 10:15:50,BOX_HEADING_SEARCH1,yes,right,search1.php,#000000
+151,4,13,2005-12-24 10:15:50,Wishlist,infobox,2005-12-24 10:15:50,BOX_HEADING_WISHLIST,yes,right,wishlist.php,#000000
+152,4,14,2005-12-24 10:15:50,Advertise,infobox,2005-12-24 10:15:50,BOX_AD_BANNER_HEADING,yes,right,boxad.php,#000000
+276,7,13,2006-01-12 21:29:47,Advertise,infobox,2006-01-12 21:29:47,BOX_AD_BANNER_HEADING,yes,right,boxad.php,#FFFFFF
+274,7,11,2006-01-12 21:29:47,Advance Search,infobox,2006-01-12 21:29:47,BOX_HEADING_SEARCH1,yes,right,search1.php,#FFFFFF
+273,7,10,2006-01-12 21:29:47,Cards We Accept,infobox,2006-01-12 21:29:47,BOX_HEADING_CARD1,yes,right,card1.php,#FFFFFF
+272,7,9,2006-01-12 21:29:47,Donate,infobox,2006-01-12 21:29:47,BOX_HEADING_DONATE,yes,right,donate.php,#FFFFFF
+271,7,8,2006-01-12 21:29:47,You Have a Download,infobox,2006-01-12 21:29:47,BOX_HEADING_DOWNLOADS,yes,right,downloads.php,#FFFFFF
+270,7,7,2006-01-12 21:29:47,Currencies,infobox,2006-01-12 21:29:47,BOX_HEADING_CURRENCIES,yes,right,currencies.php,#FFFFFF
+269,7,6,2006-01-12 21:29:47,Languages,infobox,2006-01-12 21:29:47,BOX_HEADING_LANGUAGES,yes,right,languages.php,#FFFFFF
+268,7,5,2006-01-12 21:29:47,Order History,infobox,2006-01-12 21:29:47,BOX_HEADING_CUSTOMER_ORDERS,yes,right,order_history.php,#FFFFFF
+267,7,4,2006-01-12 21:29:47,Best Sellers,infobox,2006-01-12 21:29:47,BOX_HEADING_BESTSELLERS,yes,right,best_sellers.php,#FFFFFF
+266,7,3,2006-01-12 21:29:47,Your Account,infobox,2006-01-12 21:29:47,BOX_HEADING_LOGIN,yes,right,loginbox.php,#FFFFFF
+262,7,20,2006-01-12 21:29:47,Who's Online,infobox,2006-01-12 21:29:47,BOX_HEADING_WHOS_ONLINE,yes,left,whos_online.php,#FFFFFF
+263,7,22,2006-01-12 21:29:47,Google Ad,infobox,2006-01-12 21:29:47,BOX_GOOGLE_AD_BANNER_HEADING,yes,left,googlead.php,#FFFFFF
+264,7,1,2006-01-12 21:29:47,Shopping Cart,infobox,2006-01-12 21:29:47,BOX_HEADING_SHOPPING_CART,yes,right,shopping_cart.php,#FFFFFF
+265,7,2,2006-01-12 21:29:47,Gift Voucher,infobox,2006-01-12 21:29:47,BOX_HEADING_GIFT_VOUCHER,yes,right,customer_gv.php,#FFFFFF
+261,7,21,2006-01-12 21:29:47,Links,infobox,2006-01-12 21:29:47,BOX_HEADING_LINKS,yes,left,links.php,#FFFFFF
+260,7,19,2006-01-12 21:29:47,Affiliate Info,infobox,2006-01-12 21:29:47,BOX_HEADING_AFFILIATE,yes,left,affiliate.php,#FFFFFF
+258,7,17,2006-01-12 21:29:47,Shop by Price,infobox,2006-01-12 21:29:47,BOX_HEADING_SHOP_BY_PRICE,yes,left,shop_by_price.php,#FFFFFF
+259,7,18,2006-01-12 21:29:47,Featured,infobox,2006-01-12 21:29:47,BOX_HEADING_FEATURED,yes,left,featured.php,#FFFFFF
+257,7,16,2006-01-12 21:29:47,Latest products,infobox,2006-01-12 21:29:47,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#FFFFFF
+256,7,15,2006-01-12 21:29:47,Tell A Friend,infobox,2006-01-12 21:29:47,BOX_HEADING_TELL_A_FRIEND,yes,left,tell_a_friend.php,#FFFFFF
+255,7,14,2006-01-12 21:29:47,Notifications,infobox,2006-01-12 21:29:47,BOX_HEADING_NOTIFICATIONS,yes,left,product_notifications.php,#FFFFFF
+254,7,13,2006-01-12 21:29:47,Manufacturers Info,infobox,2006-01-12 21:29:47,BOX_HEADING_MANUFACTURER_INFO,yes,left,manufacturer_info.php,#FFFFFF
+252,7,11,2006-01-12 21:29:47,Quick Find,infobox,2006-01-12 21:29:47,BOX_HEADING_SEARCH,yes,left,search.php,#FFFFFF
+253,7,12,2006-01-12 21:29:47,Manufacturers,infobox,2006-01-13 08:00:54,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#FFFFFF
+251,7,10,2006-01-12 21:29:47,Specials,infobox,2006-01-12 21:29:47,BOX_HEADING_SPECIALS,yes,left,specials.php,#FFFFFF
+250,7,9,2006-01-12 21:29:47,Reviews,infobox,2006-01-12 21:29:47,BOX_HEADING_REVIEWS,yes,left,reviews.php,#FFFFFF
+249,7,8,2006-01-12 21:29:47,Select Template,infobox,2006-01-12 21:29:47,BOX_HEADING_TEMPLATE_SELECT,yes,left,theme_select.php,#FFFFFF
+247,7,5,2006-01-12 21:29:47,Categories,infobox,2006-01-12 21:29:47,BOX_HEADING_CATEGORIES3,no,left,categories3.php,#FFFFFF
+248,7,6,2006-01-12 21:29:47,Categories,infobox,2006-02-03 12:11:38,BOX_HEADING_CATEGORIES4,yes,left,categories4.php,#FFFFFF
+246,7,4,2006-01-12 21:29:47,Categories,infobox,2006-01-12 21:29:47,BOX_HEADING_CATEGORIES2,no,left,categories2.php,#FFFFFF
+244,7,2,2006-01-12 21:29:47,Categories,infobox,2006-01-12 21:29:47,BOX_HEADING_CATEGORIES,no,left,categories.php,#FFFFFF
+245,7,3,2006-01-12 21:29:47,Categories,infobox,2006-01-12 21:29:47,BOX_HEADING_CATEGORIES1,no,left,categories1.php,#FFFFFF
+281,7,27,0000-00-00 00:00:00,Faq,infobox,2006-02-03 12:17:20,BOX_HEADING_FAQ,yes,left,faq.php,#FFFFFF
+282,7,28,0000-00-00 00:00:00,Information,infobox,NULL,BOX_HEADING_INFORMATION_TABLE,yes,left,information_table.php,#FFFFFF
+285,7,7,0000-00-00 00:00:00,Categories,infobox,2006-02-03 12:11:38,BOX_HEADING_CATEGORIES5,no,left,categories5.php,#FFFFFF
+286,8,1,2006-09-05 23:52:05,Categories,infobox,2006-09-05 23:52:05,BOX_HEADING_CATEGORIES,yes,right,categories.php,<blank>
+287,8,2,2006-09-05 23:52:05,Articles,infobox,2006-09-05 23:52:05,BOX_HEADING_ARTICLES,yes,left,articles.php,<blank>
+288,8,1,2006-09-05 23:52:05,FAQ,infobox,2006-09-05 23:52:05,BOX_HEADING_FAQ,yes,left,faq.php,<blank>
+289,8,4,2006-09-05 23:52:05,Reviews,infobox,2006-09-05 23:52:05,BOX_HEADING_REVIEWS,no,left,reviews.php,#000000
+290,8,5,2006-09-05 23:52:05,Specials,infobox,2006-09-05 23:52:05,BOX_HEADING_SPECIALS,no,left,specials.php,#000000
+291,8,6,2006-09-05 23:52:05,Quick Find,infobox,2006-09-05 23:52:05,BOX_HEADING_SEARCH,no,left,search.php,#000000
+292,8,7,2006-09-05 23:52:05,Manufacturers,infobox,2006-09-05 23:52:05,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#000000
+293,8,8,2006-09-05 23:52:05,Manufacturers Info,infobox,2006-09-05 23:52:05,BOX_HEADING_MANUFACTURER_INFO,no,left,manufacturer_info.php,#000000
+294,8,9,2006-09-05 23:52:05,Notifications,infobox,2006-09-05 23:52:05,BOX_HEADING_NOTIFICATIONS,no,left,product_notifications.php,#000000
+295,8,10,2006-09-05 23:52:05,Tell A Friend,infobox,2006-09-05 23:52:05,BOX_HEADING_TELL_A_FRIEND,no,left,tell_a_friend.php,#000000
+296,8,3,2006-09-05 23:52:05,Latest products,infobox,2006-09-05 23:52:05,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#000000
+297,8,11,2006-09-05 23:52:05,Shop by Price,infobox,2006-09-05 23:52:05,BOX_HEADING_SHOP_BY_PRICE,no,left,shop_by_price.php,#000000
+298,8,12,2006-09-05 23:52:05,Featured,infobox,2006-09-05 23:52:05,BOX_HEADING_FEATURED,no,left,featured.php,#000000
+299,8,13,2006-09-05 23:52:05,Affiliate Info,infobox,2006-09-05 23:52:05,BOX_HEADING_AFFILIATE,no,left,affiliate.php,#000000
+300,8,14,2006-09-05 23:52:05,Links,infobox,2006-09-05 23:52:05,BOX_HEADING_LINKS,no,left,links.php,#000000
+301,8,15,2006-09-05 23:52:05,Who's Online,infobox,2006-09-05 23:52:05,BOX_HEADING_WHOS_ONLINE,no,left,whos_online.php,#000000
+302,8,16,2006-09-05 23:52:05,Google Ad,infobox,2006-09-05 23:52:05,BOX_GOOGLE_AD_BANNER_HEADING,no,left,googlead.php,#000000
+303,8,2,2006-09-05 23:52:05,Shopping Cart,infobox,2006-09-05 23:52:05,BOX_HEADING_SHOPPING_CART,no,right,shopping_cart.php,#000000
+304,8,3,2006-09-05 23:52:05,Gift Voucher,infobox,2006-09-05 23:52:05,BOX_HEADING_GIFT_VOUCHER,no,right,customer_gv.php,#000000
+305,8,4,2006-09-05 23:52:05,Your Account,infobox,2006-09-05 23:52:05,BOX_HEADING_LOGIN,no,right,loginbox.php,#000000
+306,8,5,2006-09-05 23:52:05,Best Sellers,infobox,2006-09-05 23:52:05,BOX_HEADING_BESTSELLERS,no,right,best_sellers.php,#000000
+307,8,6,2006-09-05 23:52:05,Order History,infobox,2006-09-05 23:52:05,BOX_HEADING_CUSTOMER_ORDERS,no,right,order_history.php,#000000
+308,8,7,2006-09-05 23:52:05,Languages,infobox,2006-09-05 23:52:05,BOX_HEADING_LANGUAGES,no,right,languages.php,#000000
+309,8,8,2006-09-05 23:52:05,Currencies,infobox,2006-09-05 23:52:05,BOX_HEADING_CURRENCIES,no,right,currencies.php,#000000
+310,8,9,2006-09-05 23:52:05,You Have a Download,infobox,2006-09-05 23:52:05,BOX_HEADING_DOWNLOADS,no,right,downloads.php,#000000
+311,8,10,2006-09-05 23:52:05,Donate,infobox,2006-09-05 23:52:05,BOX_HEADING_DONATE,no,right,donate.php,#000000
+312,8,11,2006-09-05 23:52:05,Cards We Accept,infobox,2006-09-05 23:52:05,BOX_HEADING_CARD1,no,right,card1.php,#000000
+313,8,12,2006-09-05 23:52:05,Advance Search,infobox,2006-09-05 23:52:05,BOX_HEADING_SEARCH1,no,right,search1.php,#000000
+314,8,13,2006-09-05 23:52:05,Wishlist,infobox,2006-09-05 23:52:05,BOX_HEADING_WISHLIST,no,right,wishlist.php,#000000
+315,8,14,2006-09-05 23:52:05,Advertise,infobox,2006-09-05 23:52:05,BOX_AD_BANNER_HEADING,no,right,boxad.php,#000000
+316,8,17,0000-00-00 00:00:00,Array,infobox,NULL,BOX_HEADING_EXAMPLE,yes,left,asearch.php,#00FF33
+317,0,1,2006-09-06 00:07:05,Categories,infobox,2006-09-06 00:07:05,BOX_HEADING_CATEGORIES,yes,right,categories.php,<blank>
+318,0,2,2006-09-06 00:07:05,Articles,infobox,2006-09-06 00:07:05,BOX_HEADING_ARTICLES,yes,left,articles.php,<blank>
+319,0,1,2006-09-06 00:07:05,FAQ,infobox,2006-09-06 00:07:05,BOX_HEADING_FAQ,yes,left,faq.php,<blank>
+320,0,6,2006-04-04 12:21:40,Select Template,infobox,2006-04-04 12:21:40,BOX_HEADING_TEMPLATE_SELECT,no,left,theme_select.php,#000000
+321,0,7,2006-09-06 00:07:05,Reviews,infobox,2006-09-06 00:07:05,BOX_HEADING_REVIEWS,no,left,reviews.php,#000000
+322,0,8,2006-09-06 00:07:05,Specials,infobox,2006-09-06 00:07:05,BOX_HEADING_SPECIALS,no,left,specials.php,#000000
+323,0,13,2006-09-06 00:07:05,Quick Find,infobox,2006-09-06 00:07:05,BOX_HEADING_SEARCH,no,left,search.php,#000000
+324,0,14,2006-09-06 00:07:05,Manufacturers,infobox,2006-09-06 00:07:05,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#000000
+325,0,15,2006-09-06 00:07:05,Manufacturers Info,infobox,2006-09-06 00:07:05,BOX_HEADING_MANUFACTURER_INFO,no,left,manufacturer_info.php,#000000
+326,0,16,2006-09-06 00:07:05,Notifications,infobox,2006-09-06 00:07:05,BOX_HEADING_NOTIFICATIONS,no,left,product_notifications.php,#000000
+327,0,17,2006-09-06 00:07:05,Tell A Friend,infobox,2006-09-06 00:07:05,BOX_HEADING_TELL_A_FRIEND,no,left,tell_a_friend.php,#000000
+328,0,3,2006-09-06 00:07:05,Latest products,infobox,2006-09-06 00:07:05,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#000000
+329,0,19,2006-09-06 00:07:05,Shop by Price,infobox,2006-09-06 00:07:05,BOX_HEADING_SHOP_BY_PRICE,no,left,shop_by_price.php,#000000
+330,0,20,2006-09-06 00:07:05,Featured,infobox,2006-09-06 00:07:05,BOX_HEADING_FEATURED,no,left,featured.php,#000000
+331,0,21,2006-09-06 00:07:05,Affiliate Info,infobox,2006-09-06 00:07:05,BOX_HEADING_AFFILIATE,no,left,affiliate.php,#000000
+332,0,22,2006-09-06 00:07:05,Links,infobox,2006-09-06 00:07:05,BOX_HEADING_LINKS,no,left,links.php,#000000
+333,0,22,2006-09-06 00:07:05,Who's Online,infobox,2006-09-06 00:07:05,BOX_HEADING_WHOS_ONLINE,no,left,whos_online.php,#000000
+334,0,23,2006-09-06 00:07:05,Google Ad,infobox,2006-09-06 00:07:05,BOX_GOOGLE_AD_BANNER_HEADING,no,left,googlead.php,#000000
+335,0,1,2006-09-06 00:07:05,Shopping Cart,infobox,2006-09-06 00:07:05,BOX_HEADING_SHOPPING_CART,no,right,shopping_cart.php,#000000
+336,0,2,2006-09-06 00:07:05,Gift Voucher,infobox,2006-09-06 00:07:05,BOX_HEADING_GIFT_VOUCHER,no,right,customer_gv.php,#000000
+337,0,3,2006-09-06 00:07:05,Your Account,infobox,2006-09-06 00:07:05,BOX_HEADING_LOGIN,no,right,loginbox.php,#000000
+338,0,4,2006-09-06 00:07:05,Best Sellers,infobox,2006-09-06 00:07:05,BOX_HEADING_BESTSELLERS,no,right,best_sellers.php,#000000
+339,0,5,2006-09-06 00:07:05,Order History,infobox,2006-09-06 00:07:05,BOX_HEADING_CUSTOMER_ORDERS,no,right,order_history.php,#000000
+340,0,6,2006-09-06 00:07:05,Languages,infobox,2006-09-06 00:07:05,BOX_HEADING_LANGUAGES,no,right,languages.php,#000000
+341,0,7,2006-09-06 00:07:05,Currencies,infobox,2006-09-06 00:07:05,BOX_HEADING_CURRENCIES,no,right,currencies.php,#000000
+342,0,10,2006-09-06 00:07:05,You Have a Download,infobox,2006-09-06 00:07:05,BOX_HEADING_DOWNLOADS,no,right,downloads.php,#000000
+343,0,11,2006-09-06 00:07:05,Donate,infobox,2006-09-06 00:07:05,BOX_HEADING_DONATE,no,right,donate.php,#000000
+344,0,12,2006-09-06 00:07:05,Cards We Accept,infobox,2006-09-06 00:07:05,BOX_HEADING_CARD1,no,right,card1.php,#000000
+345,0,13,2006-09-06 00:07:05,Advance Search,infobox,2006-09-06 00:07:05,BOX_HEADING_SEARCH1,no,right,search1.php,#000000
+346,0,14,2006-09-06 00:07:05,Wishlist,infobox,2006-09-06 00:07:05,BOX_HEADING_WISHLIST,no,right,wishlist.php,#000000
+347,0,15,2006-09-06 00:07:05,Advertise,infobox,2006-09-06 00:07:05,BOX_AD_BANNER_HEADING,no,right,boxad.php,#000000
+348,0,1,2006-09-06 00:08:18,Categories,infobox,2006-09-06 00:08:18,BOX_HEADING_CATEGORIES,yes,right,categories.php,<blank>
+349,0,2,2006-09-06 00:08:18,Articles,infobox,2006-09-06 00:08:18,BOX_HEADING_ARTICLES,yes,left,articles.php,<blank>
+350,0,1,2006-09-06 00:08:18,FAQ,infobox,2006-09-06 00:08:18,BOX_HEADING_FAQ,yes,left,faq.php,<blank>
+351,0,6,2006-04-04 12:21:40,Select Template,infobox,2006-04-04 12:21:40,BOX_HEADING_TEMPLATE_SELECT,no,left,theme_select.php,#000000
+352,0,7,2006-09-06 00:08:18,Reviews,infobox,2006-09-06 00:08:18,BOX_HEADING_REVIEWS,no,left,reviews.php,#000000
+353,0,8,2006-09-06 00:08:18,Specials,infobox,2006-09-06 00:08:18,BOX_HEADING_SPECIALS,no,left,specials.php,#000000
+354,0,13,2006-09-06 00:08:18,Quick Find,infobox,2006-09-06 00:08:18,BOX_HEADING_SEARCH,no,left,search.php,#000000
+355,0,14,2006-09-06 00:08:18,Manufacturers,infobox,2006-09-06 00:08:18,BOX_HEADING_MANUFACTURERS,yes,left,manufacturers.php,#000000
+356,0,15,2006-09-06 00:08:18,Manufacturers Info,infobox,2006-09-06 00:08:18,BOX_HEADING_MANUFACTURER_INFO,no,left,manufacturer_info.php,#000000
+357,0,16,2006-09-06 00:08:18,Notifications,infobox,2006-09-06 00:08:18,BOX_HEADING_NOTIFICATIONS,no,left,product_notifications.php,#000000
+358,0,17,2006-09-06 00:08:18,Tell A Friend,infobox,2006-09-06 00:08:18,BOX_HEADING_TELL_A_FRIEND,no,left,tell_a_friend.php,#000000
+359,0,3,2006-09-06 00:08:18,Latest products,infobox,2006-09-06 00:08:18,BOX_HEADING_WHATS_NEW,yes,left,whats_new.php,#000000
+360,0,19,2006-09-06 00:08:18,Shop by Price,infobox,2006-09-06 00:08:18,BOX_HEADING_SHOP_BY_PRICE,no,left,shop_by_price.php,#000000
+361,0,20,2006-09-06 00:08:18,Featured,infobox,2006-09-06 00:08:18,BOX_HEADING_FEATURED,no,left,featured.php,#000000
+362,0,21,2006-09-06 00:08:18,Affiliate Info,infobox,2006-09-06 00:08:18,BOX_HEADING_AFFILIATE,no,left,affiliate.php,#000000
+363,0,22,2006-09-06 00:08:18,Links,infobox,2006-09-06 00:08:18,BOX_HEADING_LINKS,no,left,links.php,#000000
+364,0,22,2006-09-06 00:08:18,Who's Online,infobox,2006-09-06 00:08:18,BOX_HEADING_WHOS_ONLINE,no,left,whos_online.php,#000000
+365,0,23,2006-09-06 00:08:18,Google Ad,infobox,2006-09-06 00:08:18,BOX_GOOGLE_AD_BANNER_HEADING,no,left,googlead.php,#000000
+366,0,1,2006-09-06 00:08:18,Shopping Cart,infobox,2006-09-06 00:08:18,BOX_HEADING_SHOPPING_CART,no,right,shopping_cart.php,#000000
+367,0,2,2006-09-06 00:08:18,Gift Voucher,infobox,2006-09-06 00:08:18,BOX_HEADING_GIFT_VOUCHER,no,right,customer_gv.php,#000000
+368,0,3,2006-09-06 00:08:18,Your Account,infobox,2006-09-06 00:08:18,BOX_HEADING_LOGIN,no,right,loginbox.php,#000000
+369,0,4,2006-09-06 00:08:18,Best Sellers,infobox,2006-09-06 00:08:18,BOX_HEADING_BESTSELLERS,no,right,best_sellers.php,#000000
+370,0,5,2006-09-06 00:08:18,Order History,infobox,2006-09-06 00:08:18,BOX_HEADING_CUSTOMER_ORDERS,no,right,order_history.php,#000000
+371,0,6,2006-09-06 00:08:18,Languages,infobox,2006-09-06 00:08:18,BOX_HEADING_LANGUAGES,no,right,languages.php,#000000
+372,0,7,2006-09-06 00:08:18,Currencies,infobox,2006-09-06 00:08:18,BOX_HEADING_CURRENCIES,no,right,currencies.php,#000000
+373,0,10,2006-09-06 00:08:18,You Have a Download,infobox,2006-09-06 00:08:18,BOX_HEADING_DOWNLOADS,no,right,downloads.php,#000000
+374,0,11,2006-09-06 00:08:18,Donate,infobox,2006-09-06 00:08:18,BOX_HEADING_DONATE,no,right,donate.php,#000000
+375,0,12,2006-09-06 00:08:18,Cards We Accept,infobox,2006-09-06 00:08:18,BOX_HEADING_CARD1,no,right,card1.php,#000000
+376,0,13,2006-09-06 00:08:18,Advance Search,infobox,2006-09-06 00:08:18,BOX_HEADING_SEARCH1,no,right,search1.php,#000000
+377,0,14,2006-09-06 00:08:18,Wishlist,infobox,2006-09-06 00:08:18,BOX_HEADING_WISHLIST,no,right,wishlist.php,#000000
+378,0,15,2006-09-06 00:08:18,Advertise,infobox,2006-09-06 00:08:18,BOX_AD_BANNER_HEADING,no,right,boxad.php,#000000
+

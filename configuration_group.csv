@@ -1,0 +1,28 @@
+configuration_group_id,visible,sort_order,configuration_group_title,configuration_group_description
+1,1,1,My Store,General information about my store
+2,1,2,Minimum Values,The minimum values for functions / data
+3,1,3,Maximum Values,The maximum values for functions / data
+4,1,4,Images,Image parameters
+5,1,5,Customer Details,Customer account configuration
+6,0,6,Module Options,Hidden from configuration
+7,1,7,Shipping/Packaging,Shipping options available at my store
+8,1,8,Product Listing,Product Listing    configuration options
+9,1,9,Stock,Stock configuration options
+10,1,10,Logging,Logging configuration options
+11,1,11,Cache,Caching configuration options
+12,1,12,E-Mail Options,General setting for E-Mail transport and HTML E-Mails
+13,1,13,Download,Downloadable products options
+14,1,14,GZip Compression,GZip compression options
+15,1,15,Sessions,Session options
+16,1,19,Site Maintenance,Site Maintenance Options
+20,1,20,Checkout,Configuration of Checkout settings
+112,1,15,Editor,WYSIWYG Editor Configuration
+209,0,1,Encryption/Decryption,Configuration for encryption and decryption of sensitive data
+811,1,8,Product Information,Product Information page configuration options
+900,1,17,Affiliate Program,Options for the Affiliate Program
+901,1,99,Links,Links Manager configuration options
+26229,1,20,Page Cache Settings,Settings for the page cache contribution
+26231,1,26231,Fraud Screen Zone,AlgoZone Fraud Screen tool options
+300,0,300,Design and layout,Design and layout configuration
+350,0,350,Info box control,Infobox controls
+

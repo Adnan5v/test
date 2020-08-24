@@ -1,0 +1,5 @@
+languages_id,products_extra_fields_id,products_extra_fields_name,products_extra_fields_order,products_extra_fields_status
+0,1,test field,0,1
+0,2,Shipping Type,0,1
+0,3,Perishable,0,1
+

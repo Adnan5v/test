@@ -1,0 +1,8 @@
+orders_id,orders_products_id,products_options_id,products_options_values_id,orders_products_attributes_id,price_prefix,products_options,options_values_price,products_options_values
+1,1,0,0,1,+,Memory,20.0000,16 mb
+1,1,0,0,2,+,Model,0.0000,Value
+2,2,0,0,3,+,Memory,10.0000,16 mb
+2,2,0,0,4,+,Model,0.0000,Premium
+3,3,0,0,5,+,Memory,0.0000,32 mb
+3,3,0,0,6,+,Model,0.0000,Premium
+

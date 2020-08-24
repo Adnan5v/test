@@ -1,0 +1,3 @@
+customers_group_id,customers_group_name,group_payment_allowed,group_shipment_allowed,customers_group_show_tax,customers_group_tax_exempt
+0,Retail,<blank>,<blank>,1,0
+

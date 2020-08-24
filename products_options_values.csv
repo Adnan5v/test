@@ -1,0 +1,82 @@
+language_id,products_options_values_id,options_values_price,products_options_values_name
+1,1,0.0000,4 mb
+1,2,0.0000,8 mb
+1,3,0.0000,16 mb
+1,4,0.0000,32 mb
+1,5,0.0000,Value
+1,6,0.0000,Premium
+1,7,0.0000,Deluxe
+1,8,0.0000,PS/2
+1,9,0.0000,USB
+1,10,0.0000,Download: Windows - English
+1,13,0.0000,Box: Windows - English
+1,14,5.0000,Select Option 1
+1,15,3.5000,Select Option 2
+1,16,2.0000,Select Option 3
+1,17,15.0000,Yes
+1,18,0.0000,No
+1,19,0.0000,text input field
+1,20,2.0000,Checkbox 1
+1,21,5.0000,Checkbox 2
+1,24,0.0000,test
+5,1,0.0000,4 mb
+5,2,0.0000,8 mb
+5,3,0.0000,16 mb
+5,4,0.0000,32 mb
+5,5,0.0000,Value
+5,6,0.0000,Premium
+5,7,0.0000,Deluxe
+5,8,0.0000,PS/2
+5,9,0.0000,USB
+5,10,0.0000,Download: Windows - English
+5,13,0.0000,Box: Windows - English
+5,14,5.0000,Select Option 1
+5,15,3.5000,Select Option 2
+5,16,2.0000,Select Option 3
+5,17,15.0000,Yes
+5,18,0.0000,No
+5,19,0.0000,text input field
+5,20,2.0000,Checkbox 1
+5,21,5.0000,Checkbox 2
+5,24,0.0000,test
+3,1,0.0000,4 mb
+3,2,0.0000,8 mb
+3,3,0.0000,16 mb
+3,4,0.0000,32 mb
+3,5,0.0000,Value
+3,6,0.0000,Premium
+3,7,0.0000,Deluxe
+3,8,0.0000,PS/2
+3,9,0.0000,USB
+3,10,0.0000,Download: Windows - English
+3,13,0.0000,Box: Windows - English
+3,14,5.0000,Select Option 1
+3,15,3.5000,Select Option 2
+3,16,2.0000,Select Option 3
+3,17,15.0000,Yes
+3,18,0.0000,No
+3,19,0.0000,text input field
+3,20,2.0000,Checkbox 1
+3,21,5.0000,Checkbox 2
+3,24,0.0000,test
+4,1,0.0000,4 mb
+4,2,0.0000,8 mb
+4,3,0.0000,16 mb
+4,4,0.0000,32 mb
+4,5,0.0000,Value
+4,6,0.0000,Premium
+4,7,0.0000,Deluxe
+4,8,0.0000,PS/2
+4,9,0.0000,USB
+4,10,0.0000,Download: Windows - English
+4,13,0.0000,Box: Windows - English
+4,14,5.0000,Select Option 1
+4,15,3.5000,Select Option 2
+4,16,2.0000,Select Option 3
+4,17,15.0000,Yes
+4,18,0.0000,No
+4,19,0.0000,text input field
+4,20,2.0000,Checkbox 1
+4,21,5.0000,Checkbox 2
+4,24,0.0000,test
+

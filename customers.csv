@@ -1,0 +1,13 @@
+customers_id,customers_group_id,customers_validation,customers_validation_code,customers_default_address_id,customers_fax,customers_dob,customers_gender,customers_password,customers_group_ra,customers_lastname,customers_firstname,customers_telephone,customers_newsletter,customers_email_address,customers_payment_allowed,purchased_without_account,customers_shipment_allowed,customers_email_registered,customers_selected_template
+1,0,1,<blank>,1,<blank>,2001-01-01 00:00:00,m,d95e8fa7f20a009372eb3477473fcd34:1c,0,doe,John,12345,0,root@localhost,<blank>,0,<blank>,<blank>,<blank>
+4,0,1,<blank>,9,<blank>,1971-09-10 00:00:00,m,3f1cb9c78cb0165b1f41af6e53030f34:c3,0,Iozzia,Salvatore,813-843-4052,<blank>,sal@chainreactionweb.com,<blank>,0,<blank>,<blank>,<blank>
+7,0,1,<blank>,2,<blank>,1970-05-21 00:00:00,m,3d52af36c67d71546967be508b547120:9d,0,test,test,123 123 1234,0,test@localhost.com,<blank>,0,<blank>,<blank>,NULL
+13,0,1,<blank>,8,<blank>,1970-05-21 00:00:00,m,f5ca8357ef04277da992f8d3af76f430:0c,0,Chitragar,Kiran,232323,<blank>,kiran@webart4u.com,<blank>,0,<blank>,<blank>,NULL
+15,0,1,<blank>,3,<blank>,1961-10-13 00:00:00,m,84460b4045fbf40e3b97f940c59d5fd2:d0,<blank>,Graham,David,1234567890,<blank>,david@creloaded.com,0,0,<blank>,<blank>,NULL
+16,1,1,GFAY0ao8Jo,4,<blank>,1961-10-13 00:00:00,m,e5d2ae54e836030551501cebe813111e:0f,<blank>,Von Customer,Theodore,1234567890,1,projectmanager@creloaded.com,<blank>,0,<blank>,projectmanager@creloaded.com,NULL
+17,0,1,WrKnyu6BUZ,5,<blank>,1967-10-18 00:00:00,m,9870995f923a606efe1450f50685c483:74,0,Darel,Lars,96413003,<blank>,lars@darel.dk,<blank>,0,<blank>,lars@darel.dk,Helius
+18,0,1,1pWStuZNfT,6,<blank>,1949-12-07 00:00:00,m,b749a6f93001f1e76728c0b728395452:aa,<blank>,Feather,Bob,210 962 8471,1,athensclass@hotmail.com,<blank>,0,<blank>,athensclass@hotmail.com,Original
+24,0,1,4fyMMAOJTG,13,147147,1998-01-01 00:00:00,m,fd809dbd1ab85b1b32943e5f2092b93c:c2,0,Mudaliar,Ravi,147147,<blank>,simply_ravi@yahoo.com,<blank>,0,<blank>,simply_ravi@yahoo.com,NULL
+21,0,1,D91nbtCd6n,10,<blank>,1971-09-10 00:00:00,m,f72cbe816e77f26cf408a43cc3a565f1:94,0,Iozzia2,Salvatore2,8002948182,<blank>,sal2@chainreactionweb.com,<blank>,0,<blank>,sal2@chainreactionweb.com,NULL
+26,1,1,QFWb5OmHoz,15,<blank>,1967-07-05 00:00:00,m,0bbdd4a6cee2bcdf22b08f166904f4ca:23,0,KjÃ¶bek,Charles,+46 533 130 24,1,charles@dof.se,<blank>,0,<blank>,charles@dof.se,NULL
+

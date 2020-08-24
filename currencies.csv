@@ -1,0 +1,5 @@
+currencies_id,code,title,value,symbol_left,last_updated,symbol_right,decimal_point,decimal_places,thousands_point
+1,USD,US Dollar,1.00000000,$,2004-04-05 08:33:22,<blank>,.,2,","
+2,EUR,Euro,0.82529998,<blank>,2004-04-05 08:33:24,EUR,.,2,","
+3,GBP,British Pound,0.54670000,Â£,2004-04-05 08:33:25,<blank>,.,2,","
+

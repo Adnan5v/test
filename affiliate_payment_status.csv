@@ -1,0 +1,10 @@
+affiliate_language_id,affiliate_payment_status_id,affiliate_payment_status_name
+1,0,Pending
+1,1,Paid
+5,0,Pending
+5,1,Paid
+3,0,Pending
+3,1,Paid
+4,0,Pending
+4,1,Paid
+

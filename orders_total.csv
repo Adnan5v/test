@@ -1,0 +1,38 @@
+orders_id,orders_total_id,text,title,class,value,sort_order
+1,1,$319.99,Sub-Total:,ot_subtotal,319.9900,1
+1,2,$0.00,Customer Discount:,ot_customer_discount,0.0000,2
+1,3,$0.00,Tax:,ot_tax,0.0000,3
+1,4,$0.00,FedEx Priority to Canada,ot_shipping,0.0000,4
+1,5,<b>$319.99</b>,Total:,ot_total,319.9900,5
+2,6,$509.99,Sub-Total:,ot_subtotal,509.9900,1
+2,7,$0.00,Customer Discount:,ot_customer_discount,0.0000,2
+2,8,$0.00,Tax:,ot_tax,0.0000,3
+2,9,$0.00,FedEx Priority to Canada,ot_shipping,0.0000,4
+2,10,<b>$509.99</b>,Total:,ot_total,509.9900,5
+3,11,$499.99,Sub-Total:,ot_subtotal,499.9900,1
+3,12,$-10.00,Customer Discount:,ot_customer_discount,-10.0000,2
+3,13,$35.00,Tax:,ot_tax,34.9993,3
+3,14,$23.00,FedEx Priority to Canada,ot_shipping,23.0000,4
+3,15,<b>$547.99</b>,Total:,ot_total,547.9893,5
+4,16,0.00,Sub-Total:,ot_subtotal,0.0000,1
+4,17,0.00,Customer Discount:,ot_customer_discount,0.0000,2
+4,18,0.00,Tax:,ot_tax,0.0000,2
+4,19,0.00,Shipping:,ot_shipping,0.0000,3
+4,20,0.00,Total:,ot_total,0.0000,4
+5,21,$89.99,Sub-Total:,ot_subtotal,89.9900,760
+5,22,<b>$89.99</b>,Total:,ot_total,89.9900,800
+6,23,$2.50,Total:,ot_shipping,2.5000,1
+6,24,$35.00,Sub-Total:,ot_subtotal,35.0000,2
+6,25,<b>$37.50</b>,Total:,ot_total,37.5000,3
+9,26,$199.95,Sub-Total:,ot_subtotal,199.9500,760
+9,27,<b>$199.95</b>,Total:,ot_total,199.9500,800
+10,28,$276.92,Sub-Total:,ot_subtotal,276.9200,760
+10,29,<b>$276.92</b>,Total:,ot_total,276.9200,800
+12,33,$2.66,FL TAX 7.0%:,ot_tax,2.6593,780
+12,32,$37.99,Sub-Total:,ot_subtotal,37.9900,760
+12,34,<b>$40.65</b>,Total:,ot_total,40.6493,800
+13,35,$54.99,Sub-Total:,ot_subtotal,54.9900,760
+13,36,<b>$54.99</b>,Total:,ot_total,54.9900,800
+14,37,$134.40,Sub-Total:,ot_subtotal,134.4000,760
+14,38,<b>$134.40</b>,Total:,ot_total,134.4000,800
+

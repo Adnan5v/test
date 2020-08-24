@@ -1,0 +1,2 @@
+order_id,ip_isp,ip_org,ip_city,bank_name,ip_region,distance_m,distance_k,bank_phone,ip_address,spam_level,ip_latitude,proxy_level,fraud_level,err_message,country_code,ip_longitude,is_bin_match,is_free_email,bin_country_code,is_country_match,last_date_queried,is_anonymous_proxy,is_bank_name_match,is_bank_phone_match,is_high_risk_country,is_customer_phone_inloc
+

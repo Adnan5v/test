@@ -1,0 +1,23 @@
+parent_id,categories_id,date_added,sort_order,last_modified,categories_image
+0,1,0000-00-00 00:00:00,1,NULL,category_hardware.gif
+0,2,0000-00-00 00:00:00,2,NULL,category_software.gif
+0,3,0000-00-00 00:00:00,3,NULL,category_dvd_movies.gif
+1,4,0000-00-00 00:00:00,0,NULL,subcategory_graphic_cards.gif
+1,5,0000-00-00 00:00:00,0,NULL,subcategory_printers.gif
+1,6,0000-00-00 00:00:00,0,NULL,subcategory_monitors.gif
+1,7,0000-00-00 00:00:00,0,NULL,subcategory_speakers.gif
+1,8,0000-00-00 00:00:00,0,NULL,subcategory_keyboards.gif
+1,9,0000-00-00 00:00:00,0,NULL,subcategory_mice.gif
+3,10,0000-00-00 00:00:00,0,NULL,subcategory_action.gif
+3,11,0000-00-00 00:00:00,0,NULL,subcategory_science_fiction.gif
+3,12,0000-00-00 00:00:00,0,NULL,subcategory_comedy.gif
+3,13,0000-00-00 00:00:00,0,NULL,subcategory_cartoons.gif
+3,14,0000-00-00 00:00:00,0,NULL,subcategory_thriller.gif
+3,15,0000-00-00 00:00:00,0,NULL,subcategory_drama.gif
+1,16,0000-00-00 00:00:00,0,NULL,subcategory_memory.gif
+1,17,0000-00-00 00:00:00,0,NULL,subcategory_cdrom_drives.gif
+2,18,0000-00-00 00:00:00,0,NULL,subcategory_simulation.gif
+2,19,0000-00-00 00:00:00,0,NULL,subcategory_action_games.gif
+2,20,0000-00-00 00:00:00,0,NULL,subcategory_strategy.gif
+0,21,0000-00-00 00:00:00,0,NULL,giftcert-25-sm.gif
+

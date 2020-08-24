@@ -1,0 +1,13 @@
+customers_id,entry_zone_id,address_book_id,entry_country_id,entry_company_tax_id,entry_city,entry_state,entry_gender,entry_suburb,entry_company,entry_lastname,entry_postcode,entry_firstname,entry_street_address
+1,12,1,223,NULL,NeverNever,<blank>,m,<blank>,ACME Inc.,Doe,12345,John,1 Way Street
+7,38,2,223,NULL,Last Chance,<blank>,m,<blank>,<blank>,test,68901,test,123 123 1
+15,56,3,223,NULL,Hermitage,<blank>,m,<blank>,<blank>,Graham,37076,David,123 Anystreet
+16,56,4,223,<blank>,Hermitage,<blank>,m,<blank>,"Chain Reaction Works, Inc.",Von Customer,37076,Theodore,123 Anystreet
+17,0,5,57,NULL,Aulum,none,m,Hodsager,darel.DK,Darel,7490,Lars,Ã\x98stvÃ¦nget 43
+18,0,6,84,<blank>,Glyfada,Attiki,m,<blank>,TIBC,Feather,16675,Bob,Miltiadou 53
+13,0,8,99,NULL,Hubli,KA,m,<blank>,<blank>,Chitragar,580030,Kiran,Nehrunagar
+4,18,9,223,NULL,Hudson,<blank>,m,Hudson,Chain Reaction Web,Iozzia,34667,Salvatore,12605 River Mill Drive
+21,18,10,223,NULL,Hudson,<blank>,m,Hudson,Chain Reaction Web,Iozzia2,34667,Salvatore2,12605 River Mill Drive
+26,0,15,203,670705-2699,SÃ¤ffle,VÃ¤rmland,m,<blank>,Stardust Tattoo AB,KjÃ¶bek,661 31,Charles,Annelundsv. 23B
+24,0,13,99,NULL,Nashik,Maha,m,nashik,147147,Mudaliar,147852,Ravi,147 dudmu
+

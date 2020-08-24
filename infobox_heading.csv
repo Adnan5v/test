@@ -1,0 +1,694 @@
+infobox_id,languages_id,box_heading
+39,1,Categories
+39,3,Categories
+39,4,Categories
+39,5,Categories
+40,1,Categories
+40,3,Categories
+40,4,Categories
+40,5,Categories
+41,1,Categories
+41,3,Categories
+41,4,Categories
+41,5,Categories
+42,1,Categories
+42,3,Categories
+42,4,Categories
+42,5,Categories
+43,1,Categories
+43,3,Categories
+43,4,Categories
+43,5,Categories
+44,1,Select Template
+44,3,Select Template
+44,4,Select Template
+44,5,Select Template
+45,1,Reviews
+45,3,Reviews
+45,4,Reviews
+45,5,Reviews
+46,1,Specials
+46,3,Specials
+46,4,Specials
+46,5,Specials
+51,1,Quick Find
+51,3,Quick Find
+51,4,Quick Find
+51,5,Quick Find
+52,1,Manufacturers
+52,3,Manufacturers
+52,4,Manufacturers
+52,5,Manufacturers
+53,1,Manufacturers Info
+53,3,Manufacturers Info
+53,4,Manufacturers Info
+53,5,Manufacturers Info
+54,1,Notifications
+54,3,Notifications
+54,4,Notifications
+54,5,Notifications
+55,1,Tell A Friend
+55,3,Tell A Friend
+55,4,Tell A Friend
+55,5,Tell A Friend
+56,1,Latest products
+56,3,Latest products
+56,4,Latest products
+56,5,Latest products
+57,1,Shop by Price
+57,3,Shop by Price
+57,4,Shop by Price
+57,5,Shop by Price
+58,1,Featured
+58,3,Featured
+58,4,Featured
+58,5,Featured
+59,1,Affiliate Info
+59,3,Affiliate Info
+59,4,Affiliate Info
+59,5,Affiliate Info
+60,1,Links
+60,3,Links
+60,4,Links
+60,5,Links
+61,1,Who's Online
+61,3,Who's Online
+61,4,Who's Online
+61,5,Who's Online
+62,1,Google Ad
+62,3,Google Ad
+62,4,Google Ad
+62,5,Google Ad
+63,1,Shopping Cart
+63,3,Shopping Cart
+63,4,Shopping Cart
+63,5,Shopping Cart
+64,1,Gift Voucher
+64,3,Gift Voucher
+64,4,Gift Voucher
+64,5,Gift Voucher
+65,1,Your Account
+65,3,Your Account
+65,4,Your Account
+65,5,Your Account
+66,1,Best Sellers
+66,3,Best Sellers
+66,4,Best Sellers
+66,5,Best Sellers
+67,1,Order History
+67,3,Order History
+67,4,Order History
+67,5,Order History
+68,1,Languages
+68,3,Languages
+68,4,Languages
+68,5,Languages
+69,1,Currencies
+69,3,Currencies
+69,4,Currencies
+69,5,Currencies
+70,1,Information
+70,3,Information
+70,4,Information
+70,5,Information
+71,1,You Have a Download
+71,3,You Have a Download
+71,4,You Have a Download
+71,5,You Have a Download
+72,1,Donate
+72,3,Donate
+72,4,Donate
+72,5,Donate
+73,1,Cards We Accept
+73,3,Cards We Accept
+73,4,Cards We Accept
+73,5,Cards We Accept
+74,1,Advance Search
+74,3,Advance Search
+74,4,Advance Search
+74,5,Advance Search
+75,1,Wishlist
+75,3,Wishlist
+75,4,Wishlist
+75,5,Wishlist
+76,1,Advertise
+76,3,Advertise
+76,4,Advertise
+76,5,Advertise
+77,1,Categories
+77,3,Categories
+77,4,Categories
+77,5,Categories
+78,1,Categories
+78,3,Categories
+78,4,Categories
+78,5,Categories
+79,1,Categories
+79,3,Categories
+79,4,Categories
+79,5,Categories
+80,1,Categories
+80,3,Categories
+80,4,Categories
+80,5,Categories
+81,1,Categories
+81,3,Categories
+81,4,Categories
+81,5,Categories
+82,1,Select Template
+82,3,Select Template
+82,4,Select Template
+82,5,Select Template
+83,1,Reviews
+83,3,Reviews
+83,4,Reviews
+83,5,Reviews
+84,1,Specials
+84,3,Specials
+84,4,Specials
+84,5,Specials
+280,1,Info pages
+280,3,Info pages
+280,4,Info pages
+280,5,Info pages
+89,1,Quick Find
+89,3,Quick Find
+89,4,Quick Find
+89,5,Quick Find
+90,1,Manufacturers
+90,3,Manufacturers
+90,4,Manufacturers
+90,5,Manufacturers
+91,1,Manufacturers Info
+91,3,Manufacturers Info
+91,4,Manufacturers Info
+91,5,Manufacturers Info
+92,1,Notifications
+92,3,Notifications
+92,4,Notifications
+92,5,Notifications
+93,1,Tell A Friend
+93,3,Tell A Friend
+93,4,Tell A Friend
+93,5,Tell A Friend
+94,1,Latest products
+94,3,Latest products
+94,4,Latest products
+94,5,Latest products
+95,1,Shop by Price
+95,3,Shop by Price
+95,4,Shop by Price
+95,5,Shop by Price
+96,1,Featured
+96,3,Featured
+96,4,Featured
+96,5,Featured
+97,1,Affiliate Info
+97,3,Affiliate Info
+97,4,Affiliate Info
+97,5,Affiliate Info
+98,1,Links
+98,3,Links
+98,4,Links
+98,5,Links
+99,1,Who's Online
+99,3,Who's Online
+99,4,Who's Online
+99,5,Who's Online
+100,1,Google Ad
+100,3,Google Ad
+100,4,Google Ad
+100,5,Google Ad
+101,1,Shopping Cart
+101,3,Shopping Cart
+101,4,Shopping Cart
+101,5,Shopping Cart
+102,1,Gift Voucher
+102,3,Gift Voucher
+102,4,Gift Voucher
+102,5,Gift Voucher
+103,1,Your Account
+103,3,Your Account
+103,4,Your Account
+103,5,Your Account
+104,1,Best Sellers
+104,3,Best Sellers
+104,4,Best Sellers
+104,5,Best Sellers
+105,1,Order History
+105,3,Order History
+105,4,Order History
+105,5,Order History
+106,1,Languages
+106,3,Languages
+106,4,Languages
+106,5,Languages
+107,1,Currencies
+107,3,Currencies
+107,4,Currencies
+107,5,Currencies
+108,1,Information
+108,3,Information
+108,4,Information
+108,5,Information
+109,1,You Have a Download
+109,3,You Have a Download
+109,4,You Have a Download
+109,5,You Have a Download
+110,1,Donate
+110,3,Donate
+110,4,Donate
+110,5,Donate
+111,1,Cards We Accept
+111,3,Cards We Accept
+111,4,Cards We Accept
+111,5,Cards We Accept
+112,1,Advanced Search
+112,3,Advanced Search
+112,4,Advanced Search
+112,5,Advanced Search
+113,1,Wishlist
+113,3,Wishlist
+113,4,Wishlist
+113,5,Wishlist
+114,1,Advertise
+114,3,Advertise
+114,4,Advertise
+114,5,Advertise
+115,1,Categories
+115,3,Categories
+115,4,Categories
+115,5,Categories
+116,1,Categories
+116,3,Categories
+116,4,Categories
+116,5,Categories
+117,1,Categories
+117,3,Categories
+117,4,Categories
+117,5,Categories
+118,1,Categories
+118,3,Categories
+118,4,Categories
+118,5,Categories
+119,1,Categories
+119,3,Categories
+119,4,Categories
+119,5,Categories
+120,1,Select Template
+120,3,Select Template
+120,4,Select Template
+120,5,Select Template
+121,1,Reviews
+121,3,Reviews
+121,4,Reviews
+121,5,Reviews
+122,1,Specials
+122,3,Specials
+122,4,Specials
+122,5,Specials
+279,1,Authors
+279,3,Authors
+279,4,Authors
+279,5,Authors
+278,1,Articles
+278,3,Articles
+278,4,Articles
+278,5,Articles
+277,1,Upcoming Events
+277,3,Upcoming Events
+277,4,Upcoming Events
+277,5,Upcoming Events
+275,1,Wishlist
+275,3,Wishlist
+275,4,Wishlist
+275,5,Wishlist
+127,1,Quick Find
+127,3,Quick Find
+127,4,Quick Find
+127,5,Quick Find
+128,1,Manufacturers
+128,3,Manufacturers
+128,4,Manufacturers
+128,5,Manufacturers
+129,1,Manufacturers Info
+129,3,Manufacturers Info
+129,4,Manufacturers Info
+129,5,Manufacturers Info
+130,1,Notifications
+130,3,Notifications
+130,4,Notifications
+130,5,Notifications
+131,1,Tell A Friend
+131,3,Tell A Friend
+131,4,Tell A Friend
+131,5,Tell A Friend
+132,1,Latest products
+132,3,Latest products
+132,4,Latest products
+132,5,Latest products
+133,1,Shop by Price
+133,3,Shop by Price
+133,4,Shop by Price
+133,5,Shop by Price
+134,1,Featured
+134,3,Featured
+134,4,Featured
+134,5,Featured
+135,1,Affiliate Info
+135,3,Affiliate Info
+135,4,Affiliate Info
+135,5,Affiliate Info
+136,1,Links
+136,3,Links
+136,4,Links
+136,5,Links
+137,1,Who's Online
+137,3,Who's Online
+137,4,Who's Online
+137,5,Who's Online
+138,1,Google Ad
+138,3,Google Ad
+138,4,Google Ad
+138,5,Google Ad
+139,1,Shopping Cart
+139,3,Shopping Cart
+139,4,Shopping Cart
+139,5,Shopping Cart
+140,1,Gift Voucher
+140,3,Gift Voucher
+140,4,Gift Voucher
+140,5,Gift Voucher
+141,1,Your Account
+141,3,Your Account
+141,4,Your Account
+141,5,Your Account
+142,1,Best Sellers
+142,3,Best Sellers
+142,4,Best Sellers
+142,5,Best Sellers
+143,1,Order History
+143,3,Order History
+143,4,Order History
+143,5,Order History
+144,1,Languages
+144,3,Languages
+144,4,Languages
+144,5,Languages
+145,1,Currencies
+145,3,Currencies
+145,4,Currencies
+145,5,Currencies
+146,1,Information
+146,3,Information
+146,4,Information
+146,5,Information
+147,1,You Have a Download
+147,3,You Have a Download
+147,4,You Have a Download
+147,5,You Have a Download
+148,1,Donate
+148,3,Donate
+148,4,Donate
+148,5,Donate
+149,1,Cards We Accept
+149,3,Cards We Accept
+149,4,Cards We Accept
+149,5,Cards We Accept
+150,1,Advanced Search
+150,3,Advanced Search
+150,4,Advanced Search
+150,5,Advanced Search
+151,1,Wishlist
+151,3,Wishlist
+151,4,Wishlist
+151,5,Wishlist
+152,1,Advertise
+152,3,Advertise
+152,4,Advertise
+152,5,Advertise
+276,1,Advertise
+276,3,Advertise
+276,4,Advertise
+276,5,Advertise
+274,1,Advanced Search
+274,3,Advanced Search
+274,4,Advanced Search
+274,5,Advanced Search
+273,1,Cards We Accept
+273,3,Cards We Accept
+273,4,Cards We Accept
+273,5,Cards We Accept
+272,1,Donate
+272,3,Donate
+272,4,Donate
+272,5,Donate
+271,1,You Have a Download
+271,3,You Have a Download
+271,4,You Have a Download
+271,5,You Have a Download
+270,1,Currencies
+270,3,Currencies
+270,4,Currencies
+270,5,Currencies
+269,1,Languages
+269,3,Languages
+269,4,Languages
+269,5,Languages
+268,1,Order History
+268,3,Order History
+268,4,Order History
+268,5,Order History
+267,1,Best Sellers
+267,3,Best Sellers
+267,4,Best Sellers
+267,5,Best Sellers
+266,1,Your Account
+266,3,Your Account
+266,4,Your Account
+266,5,Your Account
+262,1,Who's Online
+262,3,Who's Online
+262,4,Who's Online
+262,5,Who's Online
+263,1,Google Ad
+263,3,Google Ad
+263,4,Google Ad
+263,5,Google Ad
+264,1,Shopping Cart
+264,3,Shopping Cart
+264,4,Shopping Cart
+264,5,Shopping Cart
+265,1,Gift Voucher
+265,3,Gift Voucher
+265,4,Gift Voucher
+265,5,Gift Voucher
+261,1,Links
+261,3,Links
+261,4,Links
+261,5,Links
+260,1,Affiliate Info
+260,3,Affiliate Info
+260,4,Affiliate Info
+260,5,Affiliate Info
+258,1,Shop by Price
+258,3,Shop by Price
+258,4,Shop by Price
+258,5,Shop by Price
+259,1,Featured
+259,3,Featured
+259,4,Featured
+259,5,Featured
+257,1,Latest products
+257,3,Latest products
+257,4,Latest products
+257,5,Latest products
+256,1,Tell A Friend
+256,3,Tell A Friend
+256,4,Tell A Friend
+256,5,Tell A Friend
+255,1,Notifications
+255,3,Notifications
+255,4,Notifications
+255,5,Notifications
+254,1,Manufacturers Info
+254,3,Manufacturers Info
+254,4,Manufacturers Info
+254,5,Manufacturers Info
+252,1,Quick Find
+252,3,Quick Find
+252,4,Quick Find
+252,5,Quick Find
+253,1,Manufacturers
+253,3,Manufacturers
+253,4,Manufacturers
+253,5,Manufacturers
+251,1,Specials
+251,3,Specials
+251,4,Specials
+251,5,Specials
+250,1,Reviews
+250,3,Reviews
+250,4,Reviews
+250,5,Reviews
+249,1,Select Template
+249,3,Select Template
+249,4,Select Template
+249,5,Select Template
+247,1,Categories
+247,3,Categories
+247,4,Categories
+247,5,Categories
+248,1,Categories
+248,3,Categories
+248,4,Categories
+248,5,Categories
+246,1,Categories
+246,3,Categories
+246,4,Categories
+246,5,Categories
+244,1,Categories
+244,3,Categories
+244,4,Categories
+244,5,Categories
+245,1,Categories
+245,3,Categories
+245,4,Categories
+245,5,Categories
+281,1,Faq
+281,3,Faq
+281,4,Faq
+281,5,Faq
+282,1,Information
+282,3,Information
+282,4,Information
+282,5,Information
+285,1,Categories
+285,3,Categories
+285,4,Categories
+285,5,Categories
+286,1,Categories
+286,3,Categories
+286,4,Categories
+286,5,Categories
+287,1,Articles
+287,3,Articles
+287,4,Articles
+287,5,Articles
+288,1,FAQ
+288,3,FAQ
+288,4,FAQ
+288,5,FAQ
+289,1,Reviews
+289,3,Reviews
+289,4,Reviews
+289,5,Reviews
+290,1,Specials
+290,3,Specials
+290,4,Specials
+290,5,Specials
+291,1,Quick Find
+291,3,Quick Find
+291,4,Quick Find
+291,5,Quick Find
+292,1,Manufacturers
+292,3,Manufacturers
+292,4,Manufacturers
+292,5,Manufacturers
+293,1,Manufacturers Info
+293,3,Manufacturers Info
+293,4,Manufacturers Info
+293,5,Manufacturers Info
+294,1,Notifications
+294,3,Notifications
+294,4,Notifications
+294,5,Notifications
+295,1,Tell A Friend
+295,3,Tell A Friend
+295,4,Tell A Friend
+295,5,Tell A Friend
+296,1,Latest products
+296,3,Latest products
+296,4,Latest products
+296,5,Latest products
+297,1,Shop by Price
+297,3,Shop by Price
+297,4,Shop by Price
+297,5,Shop by Price
+298,1,Featured
+298,3,Featured
+298,4,Featured
+298,5,Featured
+299,1,Affiliate Info
+299,3,Affiliate Info
+299,4,Affiliate Info
+299,5,Affiliate Info
+300,1,Links
+300,3,Links
+300,4,Links
+300,5,Links
+301,1,Who's Online
+301,3,Who's Online
+301,4,Who's Online
+301,5,Who's Online
+302,1,Google Ad
+302,3,Google Ad
+302,4,Google Ad
+302,5,Google Ad
+303,1,Shopping Cart
+303,3,Shopping Cart
+303,4,Shopping Cart
+303,5,Shopping Cart
+304,1,Gift Voucher
+304,3,Gift Voucher
+304,4,Gift Voucher
+304,5,Gift Voucher
+305,1,Your Account
+305,3,Your Account
+305,4,Your Account
+305,5,Your Account
+306,1,Best Sellers
+306,3,Best Sellers
+306,4,Best Sellers
+306,5,Best Sellers
+307,1,Order History
+307,3,Order History
+307,4,Order History
+307,5,Order History
+308,1,Languages
+308,3,Languages
+308,4,Languages
+308,5,Languages
+309,1,Currencies
+309,3,Currencies
+309,4,Currencies
+309,5,Currencies
+310,1,You Have a Download
+310,3,You Have a Download
+310,4,You Have a Download
+310,5,You Have a Download
+311,1,Donate
+311,3,Donate
+311,4,Donate
+311,5,Donate
+312,1,Cards We Accept
+312,3,Cards We Accept
+312,4,Cards We Accept
+312,5,Cards We Accept
+313,1,Advance Search
+313,3,Advance Search
+313,4,Advance Search
+313,5,Advance Search
+314,1,Wishlist
+314,3,Wishlist
+314,4,Wishlist
+314,5,Wishlist
+315,1,Advertise
+315,3,Advertise
+315,4,Advertise
+315,5,Advertise
+316,1,Example
+316,3,Example
+316,4,Example
+316,5,Example
+

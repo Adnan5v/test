@@ -1,0 +1,2 @@
+coupon_id,coupon_type,coupon_code,date_created,date_modified,coupon_amount,coupon_active,uses_per_user,uses_per_coupon,coupon_start_date,coupon_expire_date,coupon_minimum_order,restrict_to_products,restrict_to_customers,restrict_to_categories
+

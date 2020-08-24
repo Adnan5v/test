@@ -1,0 +1,16 @@
+orders_id,products_id,orders_products_id,final_price,products_tax,products_name,products_price,products_model,products_quantity
+1,1,1,319.9900,0.0000,Matrox G200 MMS,299.9900,MG200MMS,1
+2,2,2,509.9900,0.0000,Matrox G400 32MB,499.9900,MG400-32MB,1
+3,2,3,499.9900,7.0000,Matrox G400 32MB,499.9900,MG400-32MB,1
+5,22,4,89.9900,0.0000,Unreal Tournament,89.9900,PC-UNTM,1
+9,25,5,69.9900,0.0000,Microsoft Internet Keyboard PS/2,69.9900,MSINTKB,1
+9,12,6,39.9900,0.0000,Die Hard With A Vengeance,39.9900,DVD-DHWV,5
+10,17,7,37.9905,0.0000,Speed,37.9905,DVD-SPEED,1
+10,9,8,22.4925,0.0000,Under Siege,22.4925,DVD-UNSG,2
+10,19,9,49.9900,0.0000,There's Something About Mary,49.9900,DVD-TSAB,1
+10,5,10,35.9900,0.0000,Blade Runner - Director's Cut,35.9900,DVD-BLDRNDC,4
+12,17,12,37.9905,7.0000,Speed,37.9905,DVD-SPEED,1
+13,20,13,54.9900,0.0000,Beloved,54.9900,DVD-BELOVED,1
+14,4,14,31.5000,0.0000,The Replacement Killers,31.5000,DVD-RPMK,3
+14,18,15,39.9000,0.0000,Speed 2: Cruise Control,39.9000,DVD-SPEED2,1
+

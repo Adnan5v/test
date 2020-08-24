@@ -1,0 +1,2 @@
+orders_id,language_id,affiliate_id,affiliate_clickthroughs_id,billto,sendto,payment,currency,lastname,firstname,language,content_type,payment_title,txn_signature,payment_amount,currency_value,affiliate_date,payment_currency,affiliate_browser,affiliate_ipaddress,payment_currency_val
+

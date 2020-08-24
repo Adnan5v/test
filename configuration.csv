@@ -1,0 +1,271 @@
+configuration_id,configuration_group_id,sort_order,date_added,use_function,set_function,last_modified,configuration_key,configuration_title,configuration_value,configuration_description
+1,1,1,2006-01-26 19:27:18,NULL,NULL,2006-02-02 17:03:41,STORE_NAME,Store Name,CRE Loaded Store,The name of my store
+2,1,2,2006-01-26 19:27:18,NULL,NULL,2006-02-02 17:03:31,STORE_OWNER,Store Owner,Salvatore Iozzia,The name of my store owner
+3,1,3,2006-01-26 19:27:18,NULL,NULL,2006-02-02 17:04:26,STORE_OWNER_EMAIL_ADDRESS,E-Mail Address,creloadedrc4@chainreactionweb.com,The e-mail address of my store owner
+4,1,4,2006-01-26 19:27:18,NULL,NULL,2006-02-02 17:03:16,EMAIL_FROM,E-Mail From,Salvatore Iozzia <sal@chainreactionweb.com>,The e-mail address used in (sent) e-mails
+5,1,6,2006-01-26 19:27:18,tep_get_country_name,tep_cfg_pull_down_country_list(,NULL,STORE_COUNTRY,Country,223,The country my store is located in <br><br><b>Note: Please remember to update the store zone.</b>
+6,1,7,2006-01-26 19:27:18,tep_cfg_get_zone_name,tep_cfg_pull_down_zone_list(,2006-01-26 19:27:18,STORE_ZONE,Zone,18,The zone my store is located in
+7,1,8,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('asc', 'desc'),",NULL,EXPECTED_PRODUCTS_SORT,Expected Sort Order,desc,This is the sort order used in the expected products box.
+8,1,9,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('products_name', 'date_expected'),",NULL,EXPECTED_PRODUCTS_FIELD,Expected Sort Field,date_expected,The column to sort by in the expected products box.
+9,1,10,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,USE_DEFAULT_LANGUAGE_CURRENCY,Switch To Default Language Currency,false,Automatically switch to the language's currency when it is changed
+10,1,11,2006-01-26 19:27:18,NULL,NULL,NULL,SEND_EXTRA_ORDER_EMAILS_TO,Send Extra Order Emails To,<blank>,"Send extra order emails to the following email addresses, in this format: Name 1 <email@address1>, Name 2 <email@address2>"
+12,1,15,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ALLOW_GUEST_TO_TELL_A_FRIEND,Allow Guest To Tell A Friend,false,Allow guests to tell a friend about a product
+13,1,17,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('and', 'or'),",NULL,ADVANCED_SEARCH_DEFAULT_OPERATOR,Default Search Operator,and,Default search operators
+14,1,18,2006-01-26 19:27:18,NULL,tep_cfg_textarea(,NULL,STORE_NAME_ADDRESS,Store Address and Phone,Store Name Address Country Phone,"This is the Store Name, Address and Phone used on printable documents and displayed online"
+15,1,19,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,SHOW_COUNTS,Show Category Counts,false,Count recursively how many products are in each category
+16,1,20,2006-01-26 19:27:18,NULL,NULL,NULL,TAX_DECIMAL_PLACES,Tax Decimal Places,0,Pad the tax value this amount of decimal places
+17,1,21,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DISPLAY_PRICE_WITH_TAX,Display Prices with Tax,false,Display prices with tax included (true) or add the tax at the end (false)
+18,2,1,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_FIRST_NAME_MIN_LENGTH,First Name,2,Minimum length of first name
+19,2,2,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_LAST_NAME_MIN_LENGTH,Last Name,2,Minimum length of last name
+20,2,3,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_DOB_MIN_LENGTH,Date of Birth,10,Minimum length of date of birth
+21,2,4,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_EMAIL_ADDRESS_MIN_LENGTH,E-Mail Address,6,Minimum length of e-mail address
+22,2,5,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_STREET_ADDRESS_MIN_LENGTH,Street Address,5,Minimum length of street address
+23,2,6,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_COMPANY_MIN_LENGTH,Company,2,Minimum length of company name
+24,2,7,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_POSTCODE_MIN_LENGTH,Post Code,4,Minimum length of post code
+25,2,8,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_CITY_MIN_LENGTH,City,3,Minimum length of city
+26,2,9,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_STATE_MIN_LENGTH,State,2,Minimum length of state
+27,2,10,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_TELEPHONE_MIN_LENGTH,Telephone Number,3,Minimum length of telephone number
+28,2,11,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_PASSWORD_MIN_LENGTH,Password,5,Minimum length of password
+29,2,12,2006-01-26 19:27:18,NULL,NULL,NULL,CC_OWNER_MIN_LENGTH,Credit Card Owner Name,3,Minimum length of credit card owner name
+30,2,13,2006-01-26 19:27:18,NULL,NULL,NULL,CC_NUMBER_MIN_LENGTH,Credit Card Number,10,Minimum length of credit card number
+31,2,14,2006-01-26 19:27:18,NULL,NULL,NULL,REVIEW_TEXT_MIN_LENGTH,Review Text,50,Minimum length of review text
+32,2,15,2006-01-26 19:27:18,NULL,NULL,NULL,MIN_DISPLAY_BESTSELLERS,Best Sellers,1,Minimum number of best sellers to display
+33,2,16,2006-01-26 19:27:18,NULL,NULL,NULL,MIN_DISPLAY_ALSO_PURCHASED,Also Purchased,1,Minimum number of products to display in the 'This Customer Also Purchased' box
+34,3,1,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_ADDRESS_BOOK_ENTRIES,Address Book Entries,5,Maximum address book entries a customer is allowed to have
+35,3,2,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_SEARCH_RESULTS,Search Results,10,Number of products to list
+36,3,3,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_PAGE_LINKS,Page Links,10,Number of 'number' links to use for page-sets
+37,3,4,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_SPECIAL_PRODUCTS,Special Products,3,Maximum number of products on special to display
+38,3,5,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_NEW_PRODUCTS,New Products Module,3,Maximum number of new products to display in a category
+39,3,6,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_UPCOMING_PRODUCTS,Products Expected,3,Maximum number of products expected to display
+40,3,7,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_MANUFACTURERS_IN_A_LIST,Manufacturers List,5,"Used in manufacturers box; when the number of manufacturers exceeds this number, a drop-down list will be displayed instead of the default list"
+41,3,7,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_MANUFACTURERS_LIST,Manufacturers Select Size,1,"Used in manufacturers box; when this value is '1' the classic drop-down list will be used for the manufacturers box. Otherwise, a list-box with the specified number of rows will be displayed."
+42,3,8,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_MANUFACTURER_NAME_LEN,Length of Manufacturers Name,15,Used in manufacturers box; maximum length of manufacturers name to display
+43,3,9,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_NEW_REVIEWS,New Reviews,6,Maximum number of new reviews to display
+44,3,10,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_RANDOM_SELECT_REVIEWS,Selection of Random Reviews,10,How many records to select from to choose one random product review
+45,3,11,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_RANDOM_SELECT_NEW,Selection of Random New Products,10,How many records to select from to choose one random new product to display
+46,3,12,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_RANDOM_SELECT_SPECIALS,Selection of Products on Special,10,How many records to select from to choose one random product special to display
+47,3,13,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_CATEGORIES_PER_ROW,Categories To List Per Row,3,How many categories to list per row
+48,3,14,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MAX_DISPLAY_PRODUCTS_NEW,New Products Listing,8,Maximum number of new products to display in new products page
+49,3,15,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_BESTSELLERS,Best Sellers,10,Maximum number of best sellers to display
+50,3,16,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_ALSO_PURCHASED,Also Purchased,6,Maximum number of products to display in the 'This Customer Also Purchased' box
+51,3,17,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_PRODUCTS_IN_ORDER_HISTORY_BOX,Customer Order History Box,6,Maximum number of products to display in the customer order history box
+52,3,18,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_ORDER_HISTORY,Order History,10,Maximum number of orders to display in the order history page
+53,5,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_GENDER,Gender,true,Display gender in the customers account
+54,5,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_DOB,Date of Birth,true,Display date of birth in the customers account
+55,5,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_COMPANY,Company,true,Display company in the customers account
+56,5,4,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_SUBURB,Suburb,true,Display suburb in the customers account
+57,5,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_STATE,State,true,Display state in the customers account
+58,6,0,2006-01-26 19:27:18,NULL,NULL,2006-02-02 05:37:33,MODULE_PAYMENT_INSTALLED,Installed Modules,<blank>,List of payment module filenames separated by a semi-colon. This is automatically updated. No need to edit. (Example: cc.php;cod.php;paypal.php)
+59,6,0,2006-01-26 19:27:18,NULL,NULL,2006-01-27 00:49:43,MODULE_ORDER_TOTAL_INSTALLED,Installed Modules,ot_shipping.php;ot_coupon.php;ot_gv.php;ot_subtotal.php;ot_tax.php;ot_total.php,List of order_total module filenames separated by a semi-colon. This is automatically updated. No need to edit. (Example: ot_subtotal.php;ot_tax.php;ot_shipping.php;ot_total.php)
+60,6,0,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MODULE_SHIPPING_INSTALLED,Installed Modules,<blank>,List of shipping module filenames separated by a semi-colon. This is automatically updated. No need to edit. (Example: ups.php;flat.php;item.php)
+61,6,0,2006-01-26 19:27:18,NULL,NULL,2003-09-06 22:01:21,DEFAULT_CURRENCY,Default Currency,USD,Default Currency
+62,6,0,2006-01-26 19:27:18,NULL,NULL,NULL,DEFAULT_LANGUAGE,Default Language,en,Default Language
+63,6,0,2006-01-26 19:27:18,NULL,NULL,NULL,DEFAULT_ORDERS_STATUS_ID,Default Order Status For New Orders,1,"When a new order is created, this order status will be assigned to it."
+64,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_SHIPPING_STATUS,Display Shipping,true,Do you want to display the order shipping cost?
+65,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_SHIPPING_SORT_ORDER,Sort Order,200,Sort order of display.
+66,7,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING,Allow Free Shipping,true,Do you want to allow free shipping?
+67,7,7,2006-01-26 19:27:18,currencies->format,NULL,2006-01-26 19:27:18,MODULE_ORDER_TOTAL_SHIPPING_FREE_SHIPPING_OVER,Free Shipping For Orders Over,5000,Provide free shipping for orders over the set amount.
+68,7,8,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('national', 'international', 'both'),",NULL,MODULE_ORDER_TOTAL_SHIPPING_DESTINATION,Provide Free Shipping For Orders Made,national,Provide free shipping for orders sent to the set destination.
+69,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_SUBTOTAL_STATUS,Display Sub-Total,true,Do you want to display the order sub-total cost?
+70,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_SUBTOTAL_SORT_ORDER,Sort Order,760,Sort order of display.
+71,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_TAX_STATUS,Display Tax,true,Do you want to display the order tax value?
+72,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_TAX_SORT_ORDER,Sort Order,780,Sort order of display.
+73,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_TOTAL_STATUS,Display Total,true,Do you want to display the total order value?
+74,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_TOTAL_SORT_ORDER,Sort Order,800,Sort order of display.
+75,7,1,2006-01-26 19:27:18,tep_get_country_name,tep_cfg_pull_down_country_list(,2006-01-26 19:27:18,SHIPPING_ORIGIN_COUNTRY,Country of Origin,223,Select the country of origin to be used in shipping quotes.
+76,7,2,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,SHIPPING_ORIGIN_ZIP,Postal Code,94558,Enter the Postal Code (ZIP) of the Store to be used in shipping quotes.
+77,7,3,2006-01-26 19:27:18,NULL,NULL,NULL,SHIPPING_MAX_WEIGHT,Enter the Maximum Package Weight you will ship,50,Carriers have a max weight limit for a single package. This is a common one for all.
+78,7,4,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,SHIPPING_BOX_WEIGHT,Package Tare weight.,0,What is the weight of typical packaging of small to medium packages?
+79,7,5,2006-01-26 19:27:18,NULL,NULL,NULL,SHIPPING_BOX_PADDING,Larger packages - percentage increase.,0,For 10% enter 10
+80,8,1,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_IMAGE,Display Product Image,1,Do you want to display the Product Image?
+81,8,2,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_MANUFACTURER,Display Product Manufacturer Name,0,Do you want to display the Product Manufacturer Name?
+82,8,3,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,PRODUCT_LIST_MODEL,Display Product Model,0,Do you want to display the Product Model?
+83,8,4,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_NAME,Display Product Name,2,Do you want to display the Product Name?
+84,8,5,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_PRICE,Display Product Price,3,Do you want to display the Product Price?
+85,8,6,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,PRODUCT_LIST_QUANTITY,Display Product Quantity,0,Do you want to display the Product Quantity?
+86,8,7,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_WEIGHT,Display Product Weight,0,Do you want to display the Product Weight?
+87,8,8,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_BUY_NOW,Display Buy Now Column,4,Do you want to display the Buy Now column?
+88,8,9,2006-01-26 19:27:18,NULL,NULL,NULL,PRODUCT_LIST_FILTER,Display Category/Manufacturer Filter (0=disable; 1=enable),1,Do you want to display the Category/Manufacturer Filter?
+89,8,10,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('column', 'row'),",NULL,PRODUCT_LIST_CONTENT_LISTING,Product Listing,column,Product list should be in Columns (with one product per row)  or Rows (Multiple products per row)
+90,8,10,2006-01-26 19:27:18,NULL,NULL,2003-10-05 19:19:32,PREV_NEXT_BAR_LOCATION,"Location of Prev/Next Navigation Bar (1-top, 2-bottom, 3-both)",3,"Sets the location of the Prev/Next Navigation Bar (1-top, 2-bottom, 3-both)"
+91,9,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,STOCK_CHECK,Check stock level,true,Check to see if sufficient stock is available
+92,9,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,STOCK_LIMITED,Subtract stock,true,Subtract product in stock by product orders
+93,9,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,STOCK_ALLOW_CHECKOUT,Allow Checkout,true,Allow customer to checkout even if there is insufficient stock
+94,9,4,2006-01-26 19:27:18,NULL,NULL,NULL,STOCK_MARK_PRODUCT_OUT_OF_STOCK,Mark product out of stock,***,Display something on screen so customer can see which product has insufficient stock
+95,9,5,2006-01-26 19:27:18,NULL,NULL,NULL,STOCK_REORDER_LEVEL,Stock Re-order level,5,Define when stock needs to be re-ordered
+96,10,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,STORE_PAGE_PARSE_TIME,Store Page Parse Time,false,Store the time it takes to parse a page
+97,10,2,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,STORE_PAGE_PARSE_TIME_LOG,Log Destination,/tmp/page_parse_time.log,Directory and filename of the page parse time log
+98,10,3,2006-01-26 19:27:18,NULL,NULL,NULL,STORE_PARSE_DATE_TIME_FORMAT,Log Date Format,%d/%m/%Y %H:%M:%S,The date format
+99,10,4,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DISPLAY_PAGE_PARSE_TIME,Display The Page Parse Time,true,Display the page parse time (store page parse time must be enabled)
+100,10,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,STORE_DB_TRANSACTIONS,Store Database Queries,false,Store the database queries in the page parse time log (PHP4 only)
+101,11,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2003-08-28 21:53:54,USE_CACHE,Use Cache,False,Use caching features
+102,11,2,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,DIR_FS_CACHE,Cache Directory,tmp/,The directory where the cached files are saved
+103,12,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('sendmail', 'smtp'),",NULL,EMAIL_TRANSPORT,E-Mail Transport Method,sendmail,Defines if this server uses a local connection to sendmail or uses an SMTP connection via TCP/IP. Servers running on Windows and MacOS should change this setting to SMTP.
+104,12,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('LF', 'CRLF'),",NULL,EMAIL_LINEFEED,E-Mail Linefeeds,LF,Defines the character sequence used to separate mail headers.
+105,12,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,EMAIL_USE_HTML,Use MIME HTML When Sending Emails,false,Send e-mails in HTML format
+106,12,4,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ENTRY_EMAIL_ADDRESS_CHECK,Verify E-Mail Addresses Through DNS,false,Verify e-mail address through a DNS server
+107,12,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2003-11-02 20:00:22,SEND_EMAILS,Send E-Mails,true,Send out e-mails
+108,13,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 20:20:06,DOWNLOAD_ENABLED,Enable download,true,Enable the products download functions.
+109,13,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 20:20:13,DOWNLOAD_BY_REDIRECT,Download by redirect,true,Use browser redirection for download. Disable on non-Unix systems.
+110,13,3,2006-01-26 19:27:18,NULL,<blank>,NULL,DOWNLOAD_MAX_DAYS,Expiry delay (days),7,Set number of days before the download link expires. 0 means no limit.
+111,13,4,2006-01-26 19:27:18,NULL,<blank>,NULL,DOWNLOAD_MAX_COUNT,Maximum number of downloads,5,Set the maximum number of downloads. 0 means no download authorized.
+112,14,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,GZIP_COMPRESSION,Enable GZip Compression,false,Enable HTTP GZip compression.
+113,14,2,2006-01-26 19:27:18,NULL,NULL,NULL,GZIP_LEVEL,Compression Level,5,"Use this compression level 0-9 (0 = minimum, 9 = maximum)."
+114,15,1,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,SESSION_WRITE_DIRECTORY,Session Directory,/tmp,"If sessions are file based, store them in this directory."
+115,15,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-26 19:27:18,SESSION_FORCE_COOKIE_USE,Force Cookie Use,False,Force the use of sessions when cookies are only enabled.
+116,15,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-26 19:27:18,SESSION_CHECK_SSL_SESSION_ID,Check SSL Session ID,False,Validate the SSL_SESSION_ID on every secure HTTPS page request.
+117,15,4,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",NULL,SESSION_CHECK_USER_AGENT,Check User Agent,False,Validate the client's browser user agent on every page request.
+118,15,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-26 19:27:18,SESSION_CHECK_IP_ADDRESS,Check IP Address,False,Validate the client's IP address on every page request.
+119,15,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-26 19:27:18,SESSION_BLOCK_SPIDERS,Prevent Spider Sessions,True,Prevent known spiders from starting a session.
+120,15,7,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-26 19:27:18,SESSION_RECREATE,Recreate Session,True,Recreate the session to generate a new session ID when the customer logs on or creates an account (PHP >=4.1 needed).
+121,900,1,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,AFFILIATE_EMAIL_ADDRESS,E-Mail Address,<affiliate@localhost.com>,The E Mail Address for the Affiliate Program
+122,112,29,2005-12-24 10:15:47,NULL,<blank>,2005-12-24 10:15:47,EMAIL_AREA_WYSIWYG_HEIGHT,Customer Email Layout Height,140,How HIGH should the HTMLAREA be in pixels (default: 140)
+123,112,42,2005-12-24 10:15:47,NULL,<blank>,2005-12-24 10:15:47,DEFINE_MAINPAGE_WYSIWYG_WIDTH,Define Mainpage Layout Width,605,How WIDE should the HTMLAREA be in pixels (default: 505)
+124,6,0,2005-12-24 10:15:47,NULL,tep_cfg_pull_down_template_list(,2005-12-24 10:15:47,DEFAULT_TEMPLATE,Catalog default theme,Original,"Default theme, set in Design Controls"
+125,112,43,2005-12-24 10:15:47,NULL,<blank>,2005-12-24 10:15:47,DEFINE_MAINPAGE_WYSIWYG_HEIGHT,Define Mainpage Layout Height,300,How HIGH should the HTMLAREA be in pixels (default: 140)
+127,900,2,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_PERCENT,Affiliate Pay Per Sale Payment % Rate,10.0000,Percentage Rate for the Affiliate Program
+128,900,3,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_THRESHOLD,Payment Threshold,50.00,Payment Threshold for paying affiliates
+129,900,4,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_COOKIE_LIFETIME,Cookie Lifetime,7200,How long does the click count (seconds) if customer comes back
+130,900,5,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_BILLING_TIME,Billing Time,30,"Orders billed must be at least ""30"" days old.<br>This is needed if a order is refunded"
+131,900,6,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_PAYMENT_ORDER_MIN_STATUS,Order Min Status,3,"The status an order must have at least, to be billed"
+132,900,7,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,AFFILIATE_USE_CHECK,Pay Affiliates with check,true,Pay Affiliates with check
+133,900,8,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,AFFILIATE_USE_PAYPAL,Pay Affiliates with PayPal,true,Pay Affiliates with PayPal
+134,900,9,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,AFFILIATE_USE_BANK,Pay Affiliates by Bank,true,Pay Affiliates by Bank
+135,900,10,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,AFFILATE_INDIVIDUAL_PERCENTAGE,Individual Affiliate Percentage,true,Allow per Affiliate provision
+136,900,11,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,AFFILATE_USE_TIER,Use Affiliate-tier,false,Multilevel Affiliate provisions
+137,900,12,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_TIER_LEVELS,Number of Tier Levels,0,Number of Tier Levels
+138,900,13,2006-01-26 19:27:18,NULL,NULL,NULL,AFFILIATE_TIER_PERCENTAGE,Percentage Rate for the Tier Levels,8.00;5.00;1.00,Percent Rates for the tier levels<br>Example: 8.00;5.00;1.00
+139,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_COUPON_STATUS,Display Total,true,Do you want to display the Discount Coupon value?
+140,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_COUPON_SORT_ORDER,Sort Order,720,Sort order of display.
+141,6,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_COUPON_INC_SHIPPING,Include Shipping,true,Include Shipping in calculation
+142,6,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_COUPON_INC_TAX,Include Tax,false,Include Tax in calculation.
+143,6,7,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('None', 'Standard', 'Credit Note'),",NULL,MODULE_ORDER_TOTAL_COUPON_CALC_TAX,Re-calculate Tax,None,Re-Calculate Tax
+144,6,0,2006-01-26 19:27:18,tep_get_tax_class_title,tep_cfg_pull_down_tax_classes(,NULL,MODULE_ORDER_TOTAL_COUPON_TAX_CLASS,Tax Class,0,Use the following tax class when treating Discount Coupon as Credit Note.
+145,6,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_GV_STATUS,Display Total,true,Do you want to display the Gift Voucher value?
+146,6,2,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_ORDER_TOTAL_GV_SORT_ORDER,Sort Order,740,Sort order of display.
+147,6,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_GV_QUEUE,Queue Purchases,true,Do you want to queue purchases of the Gift Voucher?
+148,6,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_GV_INC_SHIPPING,Include Shipping,true,Include Shipping in calculation
+149,6,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_GV_INC_TAX,Include Tax,false,Include Tax in calculation.
+150,6,7,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('None', 'Standard', 'Credit Note'),",NULL,MODULE_ORDER_TOTAL_GV_CALC_TAX,Re-calculate Tax,None,Re-Calculate Tax
+151,6,0,2006-01-26 19:27:18,tep_get_tax_class_title,tep_cfg_pull_down_tax_classes(,NULL,MODULE_ORDER_TOTAL_GV_TAX_CLASS,Tax Class,0,Use the following tax class when treating Gift Voucher as Credit Note.
+152,6,8,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,MODULE_ORDER_TOTAL_GV_CREDIT_TAX,Credit including Tax,false,Add tax to purchased Gift Voucher when crediting to Account
+153,16,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DOWN_FOR_MAINTENANCE,<B>Down for Maintenance: ON/OFF</B>,false,Down for Maintenance <br>(true=on false=off)
+154,16,2,2006-01-26 19:27:18,NULL,<blank>,NULL,DOWN_FOR_MAINTENANCE_FILENAME,Down for Maintenance: filename,down_for_maintenance.php,Down for Maintenance filename Default=down_for_maintenance.php
+155,16,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DOWN_FOR_MAINTENANCE_HEADER_OFF,Down for Maintenance: Hide Header,false,Down for Maintenance: Hide Header <br>(true=hide false=show)
+156,16,4,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DOWN_FOR_MAINTENANCE_COLUMN_LEFT_OFF,Down for Maintenance: Hide Column Left,true,Down for Maintenance: Hide Column Left <br>(true=hide false=show)
+157,16,5,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DOWN_FOR_MAINTENANCE_COLUMN_RIGHT_OFF,Down for Maintenance: Hide Column Right,true,Down for Maintenance: Hide Column Right <br>(true=hide false=show)r
+158,16,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DOWN_FOR_MAINTENANCE_FOOTER_OFF,Down for Maintenance: Hide Footer,false,Down for Maintenance: Hide Footer <br>(true=hide false=show)
+159,16,7,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DOWN_FOR_MAINTENANCE_PRICES_OFF,Down for Maintenance: Hide Prices,false,Down for Maintenance: Hide Prices <br>(true=hide false=show)
+160,16,8,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,EXCLUDE_ADMIN_IP_FOR_MAINTENANCE,Down For Maintenance (exclude this IP-Address),your IP (ADMIN),This IP Address is able to access the web site while it is Down For Maintenance (like webmaster)
+161,16,9,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,WARN_BEFORE_DOWN_FOR_MAINTENANCE,NOTIFY PUBLIC Before going Down for Maintenance: ON/OFF,false,Give a WARNING some time before you put your web site Down for Maintenance<br>(true=on false=off)<br>If you set the 'Down For Maintenance: ON/OFF' to true this will automatic be updated to false
+162,16,10,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,PERIOD_BEFORE_DOWN_FOR_MAINTENANCE,Date and hours for notice before maintenance,19/05/2003  between the hours of 11.00-11.30 PM,"Date and hours for notice before maintenance web site, enter date and hours for maintenance web site"
+163,16,11,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DISPLAY_MAINTENANCE_TIME,Display when webmaster has enabled maintenance,true,Display when Webmaster has enabled maintenance <br>(true=on false=off)<br>
+164,16,12,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,DISPLAY_MAINTENANCE_PERIOD,Display web site maintenance period,false,Display Web site maintenance period <br>(true=on false=off)<br>
+165,16,13,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,TEXT_MAINTENANCE_PERIOD_TIME,Website maintenance period,0h30,Enter Website Maintenance period (hh:mm)
+166,1,99,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('PRODUCT_LIST_MODEL', 'PRODUCT_LIST_NAME', 'PRODUCT_LIST_MANUFACTURER', 'PRODUCT_LIST_PRICE'),",2006-01-26 19:27:18,CATEGORIES_SORT_ORDER,Category/Products Display Order,PRODUCT_LIST_MODEL,<b>Valid Orders:<br>products_name<br>products_name-desc<br>model<br>model-desc</b>
+167,2,17,2006-01-26 19:27:18,NULL,NULL,2003-08-28 22:55:49,MIN_DISPLAY_XSELL,X-Sell,1,Minimum number of X-sell products to display
+168,7,102,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-26 19:27:18,SHOW_SHIPPING_ESTIMATOR,Shipping Estimator,true,Show Shipping Estimator on Shopping Cart <br>true= always <br>false= button popup only
+169,3,170,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_FEATURED_PRODUCTS,Product Featured Maximum Display,6,Number of products to display on main page
+170,3,171,2006-01-26 19:27:18,NULL,NULL,NULL,MAX_DISPLAY_FEATURED_PRODUCTS_LISTING,Product Featured Display Results,10,Number of products to list per page
+171,1,20,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,SHOW_MAIN_FEATURED_PRODUCTS,Show Featured Products on Main Page,true,true= on<br>false= off
+172,13,92,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,DOWNLOADS_CONTROLLER_ORDERS_STATUS,Downloads Controller Order Status Value,2,Downloads Controller Order Status Value - Default=2
+173,13,91,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,DOWNLOADS_CONTROLLER_ON_HOLD_MSG,Downloads Controller Download on hold message,"<BR><font color=""FF0000"">NOTE: Downloads are not available until payment has been confirmed</font>",Downloads Controller Download on hold message
+174,13,90,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,DOWNLOADS_ORDERS_STATUS_UPDATED_VALUE,Downloads Controller Update Status Value,4,What orders_status resets the Download days and Max Downloads - Default is 4
+175,1,2,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,STORE_LOGO,Store Logo,oscommerce.gif,"This is the logo for my store, for receipts"
+176,6,5,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_SHIPPING_FREESHIPPER_STATUS,Enable Free Shipping,1,Do you want to offer Free shipping?
+177,4,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('enable', 'disable'),",2006-01-26 19:27:18,ULTIMATE_ADDITIONAL_IMAGES,Enable Additional Images?,enable,Display Additional Images below Product Description?
+178,4,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,CONFIG_CALCULATE_IMAGE_SIZE,Calculate Image Size,true,Calculate the size of images?
+179,4,3,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,IMAGE_REQUIRED,Image Required,false,Enable to display broken images. Good for development.
+180,4,4,2006-01-26 19:27:18,NULL,NULL,NULL,HEADING_IMAGE_WIDTH,Heading Image Width,<blank>,The pixel width of heading images
+181,4,5,2006-01-26 19:27:18,NULL,NULL,NULL,HEADING_IMAGE_HEIGHT,Heading Image Height,<blank>,The pixel height of heading images
+182,4,6,2006-01-26 19:27:18,NULL,NULL,NULL,SUBCATEGORY_IMAGE_WIDTH,Subcategory Image Width,<blank>,The pixel width of subcategory images
+183,4,7,2006-01-26 19:27:18,NULL,NULL,NULL,SUBCATEGORY_IMAGE_HEIGHT,Subcategory Image Height,<blank>,The pixel height of subcategory images
+184,4,10,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,SMALL_IMAGE_WIDTH,Small Image Width (used in product list),<blank>,The pixel width of small images
+185,4,11,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,SMALL_IMAGE_HEIGHT,Small Image Height (used in product list),<blank>,The pixel height of small images
+186,4,8,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,ULT_THUMB_IMAGE_WIDTH,Additional Thumb Width,<blank>,The pixel width of additional thumb images
+187,4,9,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,ULT_THUMB_IMAGE_HEIGHT,Additional Thumb Height,<blank>,The pixel height of additional thumb images
+188,4,12,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MEDIUM_IMAGE_WIDTH,Medium Image Width (used for product info),<blank>,The pixel width of medium images
+189,4,13,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,MEDIUM_IMAGE_HEIGHT,Medium Image Height (used for product info),<blank>,The pixel height of medium images
+190,4,14,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,LARGE_IMAGE_WIDTH,Large Image Width (Pop-up),0,The pixel width of large images (Pop-up)<br>(Use 0 for non-specific size)
+191,4,15,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,LARGE_IMAGE_HEIGHT,Large Image Height (Pop-up),0,The pixel height of large images (Pop-up)<br>(Use 0 for non-specific size)
+192,1,31,2006-01-26 19:27:18,NULL,NULL,NULL,NEW_SIGNUP_GIFT_VOUCHER_AMOUNT,Welcome Gift Voucher Amount,0,Welcome Gift Voucher Amount: If you do not wish to send a Gift Voucher in your create account email put 0 for no amount else if you do place the amount here i.e. 10.00 or 50.00 no currency signs
+193,1,32,2006-01-26 19:27:18,NULL,NULL,NULL,NEW_SIGNUP_DISCOUNT_COUPON,Welcome Discount Coupon Code,<blank>,Welcome Discount Coupon Code: if you do not want to send a coupon in your create account email leave blank else place the coupon code you wish to use
+194,901,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",NULL,ENABLE_LINKS_COUNT,Click Count,True,Enable links click count.
+195,901,2,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",NULL,ENABLE_SPIDER_FRIENDLY_LINKS,Spider Friendly Links,False,Enable spider friendly links (NOT! Recommended leave set as false).
+196,901,3,2006-01-26 19:27:18,NULL,NULL,NULL,LINKS_IMAGE_WIDTH,Link Image Width,120,Maximum width of the Link Image.
+197,901,4,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,LINKS_IMAGE_HEIGHT,Link Image Height,<blank>,Maximum height of the Link Image.
+198,901,5,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,LINK_LIST_IMAGE,Display Link Image,1,Do you want to display the Link Image?
+199,901,6,2006-01-26 19:27:18,NULL,NULL,NULL,LINK_LIST_URL,Display Link URL,4,Do you want to display the Link URL?
+200,901,7,2006-01-26 19:27:18,NULL,NULL,NULL,LINK_LIST_TITLE,Display Link Title,2,Do you want to display the Link Title?
+201,901,8,2006-01-26 19:27:18,NULL,NULL,NULL,LINK_LIST_DESCRIPTION,Display Link Description,3,Do you want to display the Link Description?
+202,901,9,2006-01-26 19:27:18,NULL,NULL,NULL,LINK_LIST_COUNT,Display Link Click Count,5,Do you want to display the Link Click Count?
+203,901,10,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_LINKS_TITLE_MIN_LENGTH,Link Title Minimum Length,2,Minimum length of Link Title.
+204,901,11,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_LINKS_URL_MIN_LENGTH,Link URL Minimum Length,10,Minimum length of Link URL.
+205,901,12,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_LINKS_DESCRIPTION_MIN_LENGTH,Link Description Minimum Length,10,Minimum length of link description.
+206,901,13,2006-01-26 19:27:18,NULL,NULL,NULL,ENTRY_LINKS_CONTACT_NAME_MIN_LENGTH,Link Contact Name Minimum Length,2,Minimum length of link contact name.
+207,901,14,2006-01-26 19:27:18,NULL,NULL,2006-01-26 19:27:18,LINKS_CHECK_PHRASE,Link Check Phrase,ChainReactionWeb,Phrase to look for when you perform a link check.
+208,5,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",2006-01-27 17:47:53,ACCOUNT_EMAIL_CONFIRMATION,Require E-mail confirmation,true,Require E-mail confirmation on account creation.
+209,5,6,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ACCOUNT_CONDITIONS_REQUIRED,Require accepted conditions of use,false,Require confirmation on acceptance of the terms and conditions at checkout time.
+210,6,0,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_SHOPBYPRICE_RANGES,Shop By Price Ranges,0,How many ranges does the Shop by Price module support?
+211,6,0,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",NULL,MODULE_SHOPBYPRICE_OVER,Shop By Price Over Range,True,Add a range to cover everything over the last specified range?
+212,6,0,2006-01-26 19:27:18,NULL,NULL,NULL,MODULE_SHOPBYPRICE_RANGE,Shop By Price Range,<blank>,An array of the shop by price ranges.
+213,1,19,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,ALLOW_CATEGORY_DESCRIPTIONS,Allow Category Descriptions,true,Allow use of full text descriptions for categories
+214,20,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,PWA_ON,Purchase Without Account,true,Allow Customers to purchase without an account
+215,8,11,0000-00-00 00:00:00,NULL,<blank>,0000-00-00 00:00:00,COLUMN_COUNT,Product Listing Columns,2,"If Product Listing is Columns, How many Columns to show. (# of products in a row)"
+216,1,19,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-01-27 21:26:19,MENU_DHTML,Enable Admin Dhtml menu,False,Do you want to display top DHTML menu?
+217,20,1,2005-06-14 17:56:20,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DISPLAY_CART,Display Cart After Adding Product,true,Display the shopping cart after adding a product (or return back to their origin)
+218,20,2,2005-12-24 10:15:47,NULL,"tep_cfg_select_option(array('P', 'C', 'L'),",NULL,RETURN_CART,Return to when clicking continue button,P,Return to P=Product page C= Category page L = Last page viewed
+219,26229,1,0000-00-00 00:00:00,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-04-15 16:11:31,ENABLE_PAGE_CACHE,Enable Page Cache,false,Enable the page cache features to reduce server load and faster page renders?<br><br>Contribution by: <b>Chemo</b>
+220,26229,2,0000-00-00 00:00:00,NULL,NULL,NULL,PAGE_CACHE_LIFETIME,Cache Lifetime,5,How long to cache the pages (in minutes) ?<br>Set to 0 for daily.<br><br>Contribution by: <b>Chemo</b>
+221,26229,3,0000-00-00 00:00:00,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-04-15 16:15:54,PAGE_CACHE_DEBUG_MODE,Turn on Debug Mode?,false,"Turn on the global debug output (located at the footer) ? This affects ALL browsers and is NOT for live shops!  YOu can turn on debug mode JUST for your browser by adding ""?debug=1"" to your URL.<br><br>Contribution by: <b>Chemo</b>"
+222,26229,4,0000-00-00 00:00:00,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,PAGE_CACHE_DISABLE_PARAMETERS,Disable URL Parameters?,false,In some cases (such as search TYPE safe URL's) or large number of affiliate referrals will cause excessive page writing.<br><br>Contribution by: <b>Chemo</b>
+223,26229,5,0000-00-00 00:00:00,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-04-13 00:00:26,PAGE_CACHE_DELETE_FILES,Delete Cache Files?,false,If set to true the next catalog page request will delete all the cache files and then reset this value to false again.<br><br>Contribution by: <b>Chemo</b>
+224,26229,6,0000-00-00 00:00:00,NULL,NULL,NULL,PAGE_CACHE_UPDATE_CONFIG_FILES,Config Cache Update File?,none,If you have a configuration cache contribution enter the FULL path to the update file.<br><br>Contribution by: <b>Chemo</b>
+225,3,0,0000-00-00 00:00:00,NULL,NULL,NULL,MAX_DISPLAY_WISHLIST_PRODUCTS,Max Wish List,12,How many wish list items to show per page on the main wishlist.php file
+226,3,0,0000-00-00 00:00:00,NULL,NULL,NULL,MAX_DISPLAY_WISHLIST_BOX,Max Wish List Box,4,How many wish list items to display in the infobox before it changes to a counter
+232,456,5,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_ARTICLES_PER_PAGE,Maximum Articles Per Page,10,The maximum number of Articles to display per page<br>(All Articles and Topic/Author pages)
+233,456,4,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_ALL_ARTICLES,Display All Articles Link,true,Display a link to All Articles in the Articles box?
+234,456,3,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_NEW_ARTICLES_PER_PAGE,Maximum New Articles Per Page,10,The maximum number of New Articles to display per page<br>(New Articles page)
+235,456,2,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,NEW_ARTICLES_DAYS_DISPLAY,Number of Days Display New Articles,30,The number of days to display New Articles?
+236,456,1,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_NEW_ARTICLES,Display New Articles Link,true,Display a link to New Articles in the Articles box?
+237,456,6,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_DISPLAY_UPCOMING_ARTICLES,Maximum Display Upcoming Articles,5,Maximum number of articles to display in the Upcoming Articles module
+238,456,7,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,ENABLE_ARTICLE_REVIEWS,Enable Article Reviews,true,Enable registered users to review articles?
+239,456,8,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,ENABLE_TELL_A_FRIEND_ARTICLE,Enable Tell a Friend About Article,true,Enable Tell a Friend option in the Article Information page?
+240,456,9,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MIN_DISPLAY_ARTICLES_XSELL,Minimum Number Cross-Sell Products,1,Minimum number of products to display in the articles Cross-Sell listing.
+241,456,10,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_DISPLAY_ARTICLES_XSELL,Maximum Number Cross-Sell Products,6,Maximum number of products to display in the articles Cross-Sell listing.
+242,456,11,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,SHOW_ARTICLE_COUNTS,Show Article Counts,true,Count recursively how many articles are in each topic
+243,456,12,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_DISPLAY_AUTHOR_NAME_LEN,Maximum Length of Author Name,20,The maximum length of the author's name for display in the Author box
+244,456,13,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_DISPLAY_AUTHORS_IN_A_LIST,Authors List Style,1,"Used in Authors box. When the number of authors exceeds this number, a drop-down list will be displayed instead of the default list"
+245,456,14,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_AUTHORS_LIST,Authors Select Box Size,1,"Used in Authors box. When this value is 1 the classic drop-down list will be used for the authors box. Otherwise, a list-box with the specified number of rows will be displayed."
+246,456,15,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_AUTHOR_ARTICLE_LISTING,Display Author in Article Listing,true,Display the Author in the Article Listing?
+247,456,16,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_TOPIC_ARTICLE_LISTING,Display Topic in Article Listing,true,Display the Topic in the Article Listing?
+248,456,17,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_ABSTRACT_ARTICLE_LISTING,Display Abstract in Article Listing,true,Display the Abstract in the Article Listing?
+249,456,18,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,DISPLAY_DATE_ADDED_ARTICLE_LISTING,Display Date Added in Article Listing,true,Display the Date Added in the Article Listing?
+250,456,19,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,MAX_ARTICLE_ABSTRACT_LENGTH,Maximum Article Abstract Length,300,Sets the maximum length of the Article Abstract to be displayed<br><br>(No. of characters)
+251,456,20,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-08-17 18:48:29,ARTICLE_LIST_FILTER,Display Topic/Author Filter,true,Do you want to display the Topic/Author Filter?
+252,456,21,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('top', 'bottom', 'both'),",2005-08-17 18:48:29,ARTICLE_PREV_NEXT_BAR_LOCATION,Location of Prev/Next Navigation Bar,both,Sets the location of the Previous/Next Navigation Bar<br><br>(top; bottom; both)
+253,456,22,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('Enable', 'Disable'),",2005-08-17 18:48:29,ARTICLE_WYSIWYG_ENABLE,Use WYSIWYG HTMLAREA Editor?,Enable,Use WYSIWYG Editor in Articles and Topic/Author Descriptions?
+254,456,23,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('Basic', 'Advanced'),",2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_BASIC,WYSIWYG Editor Basic/Advanced Version?,Basic,Basic Features FASTER<br>Advanced Features SLOWER
+255,456,24,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_WIDTH,WYSIWYG Editor Layout Width,605,How WIDE should the HTMLAREA be in pixels (default: 605)
+256,456,25,2005-08-17 18:48:29,NULL,NULL,2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_HEIGHT,WYSIWYG Editor Layout Height,300,How HIGH should the HTMLAREA be in pixels (default: 300)
+257,456,26,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('Arial', 'Courier New', 'Georgia', 'Impact', 'Tahoma', 'Times New Roman', 'Verdana', 'Wingdings'),",2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_FONT_TYPE,WYSIWYG Editor Font Type,Times New Roman,User Interface Font Type<br>(not saved to content)
+258,456,27,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array(\\'8\\', \\'10\\', \\'12\\', \\'14\\', \\'18\\', \\'24\\', \\'36\\'),",2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_FONT_SIZE,WYSIWYG Editor Font Size,12,User Interface Font Size<br>(not saved to content)<p><b>10 Equals 10 pt
+259,456,28,2005-08-17 18:48:29,NULL,<blank>,2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_FONT_COLOUR,WYSIWYG Editor Font Colour,Black,"White, Black, C0C0C0, Red, FFFFFF, Yellow, Pink, Blue, Gray, 000000, etc...<br>basically any colour or HTML colour code!<br>(not saved to content)"
+260,456,29,2005-08-17 18:48:29,NULL,<blank>,2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_BG_COLOUR,WYSIWYG Editor Background Colour,White,"White, Black, C0C0C0, Red, FFFFFF, Yellow, Pink, Blue, Gray, 000000, etc...<br>basically any colour or html colour code!<br>(not saved to content)"
+261,456,30,2005-08-17 18:48:29,NULL,"tep_cfg_select_option(array('0', '1'),",2005-08-17 18:48:29,ARTICLE_MANAGER_WYSIWYG_DEBUG,WYSIWYG Editor Allow Debug Mode?,0,"Moniter Live-html, It updates as you type in a 2nd field above it.<p>Disable Debug = 0<br>Enable Debug = 1<br>Default = 0 OFF"
+287,209,3,2006-02-01 07:44:12,NULL,NULL,2006-02-01 07:44:12,PAYMENT_CC_CRYPT_FILE,Key File Name,cc_key.php,Key file
+286,209,1,2006-02-01 07:43:01,NULL,"tep_cfg_select_option(array('True', 'False'),",2006-02-01 15:42:02,PAYMENT_CC_CRYPT,Enable CC encryption,True,Do you want to enable Credit Card number encryption?
+285,209,2,2006-02-01 07:41:05,NULL,NULL,2006-02-01 07:41:05,PAYMENT_CC_CRYPT_PATH,Path to key file,key/,Please enter the FS directory of patch to Key file?
+270,900,14,2005-11-16 20:02:16,NULL,NULL,NULL,MAX_DISPLAY_AFFILIATE_NEWS,Affiliate News,3,Maximum number of items to display on the Affiliate News page
+271,1,22,0000-00-00 00:00:00,NULL,"tep_cfg_select_option(array('us', 'uk'),",2005-12-27 10:42:29,ENGLISH_LANGAUGE_SET,Use US or UK style formats for English language,us,"Use US or UK style formats for English language defines, This setting switches between the two formats"
+272,26231,1,2005-12-25 13:05:45,NULL,"tep_cfg_select_option(array('true', 'false'),",2005-12-27 10:42:02,FS_ENABLE,Enable Fraud Screener,false,Enable AlgoZone Fraud Screen Tool
+273,26231,2,2005-12-25 13:05:45,NULL,NULL,NULL,FS_LICENSE,License Key,freetrialv1.0,AlgoZone Fraud Screen Tool License Key
+274,26231,3,2005-12-25 13:05:45,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,FS_SECURE,Use Secure Connection,false,"Use HTTPS to retrieve fraud reports from AlgoZone.<p> If true, must have curl installed."
+275,26231,4,2005-12-25 13:05:45,NULL,NULL,NULL,FS_REQREM,Requests Remaining,0,Number of Fraud Screen requests remaining for your account<p>Note: Updating this value does not affect actual queries left
+276,26231,5,2005-12-25 13:05:45,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,FS_DEBUG,Debug,false,Enable AlgoZone Fraud Screen Tool
+277,300,1,2006-01-26 19:27:18,NULL,"tep_cfg_select_option(array('true', 'false'),",NULL,DESIGN_BUTTON_WISHLIST,Wishlist button product info,true,Do you want to display the wishlist button on the product info page
+278,6,0,2006-01-27 00:48:21,NULL,NULL,2006-01-27 00:48:25,MODULE_CHECKOUT_SUCCESS_INSTALLED,Installed Modules,<blank>,This is automatically updated. No need to edit.
+279,112,1,2006-03-19 10:35:39,NULL,"tep_cfg_select_option(array('Enable', 'Disable'),",2006-03-19 10:35:39,HTML_WYSIWYG_DISABLE_EMAIL,CUSTOMER EMAILS use WYSIWYG Editor?,Enable,Use HTML Editor in Email Customers
+280,112,2,2006-03-19 10:35:39,NULL,"tep_cfg_select_option(array('Enable', 'Disable'),",2006-03-19 10:35:39,HTML_WYSIWYG_DISABLE_NEWSLETTER,NEWSLETTER EMAILS use WYSIWYG Editor?,Enable,Use Use HTML Editor in Email Newsletter
+281,3,0,0000-00-00 00:00:00,NULL,NULL,NULL,MAX_DISPLAY_WISHLIST_COLS,Max Wish List Columns,1,How many columns to display in the wish list
+

@@ -1,0 +1,6 @@
+languages_id,code,name,image,directory,sort_order
+1,en,English,icon.gif,english,1
+3,de,German,icon.gif,german,2
+4,fr,French,icon.gif,french,3
+5,es,Spanish,icon.gif,espanol,4
+

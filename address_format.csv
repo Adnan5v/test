@@ -1,0 +1,7 @@
+address_format_id,address_format,address_summary
+1,"$firstname $lastname$cr$streets$cr$city, $postcode$cr$statecomma$country",$city / $country
+2,"$firstname $lastname$cr$streets$cr$city, $state    $postcode$cr$country","$city, $state / $country"
+3,$firstname $lastname$cr$streets$cr$city$cr$postcode - $statecomma$country,$state / $country
+4,$firstname $lastname$cr$streets$cr$city ($postcode)$cr$country,$postcode / $country
+5,$firstname $lastname$cr$streets$cr$postcode $city$cr$country,$city / $country
+

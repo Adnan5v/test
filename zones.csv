@@ -1,0 +1,183 @@
+zone_id,zone_country_id,zone_name,zone_code
+1,223,Alabama,AL
+2,223,Alaska,AK
+3,223,American Samoa,AS
+4,223,Arizona,AZ
+5,223,Arkansas,AR
+6,223,Armed Forces Africa,AF
+7,223,Armed Forces Americas,AA
+8,223,Armed Forces Canada,AC
+9,223,Armed Forces Europe,AE
+10,223,Armed Forces Middle East,AM
+11,223,Armed Forces Pacific,AP
+12,223,California,CA
+13,223,Colorado,CO
+14,223,Connecticut,CT
+15,223,Delaware,DE
+16,223,District of Columbia,DC
+17,223,Federated States Of Micronesia,FM
+18,223,Florida,FL
+19,223,Georgia,GA
+20,223,Guam,GU
+21,223,Hawaii,HI
+22,223,Idaho,ID
+23,223,Illinois,IL
+24,223,Indiana,IN
+25,223,Iowa,IA
+26,223,Kansas,KS
+27,223,Kentucky,KY
+28,223,Louisiana,LA
+29,223,Maine,ME
+30,223,Marshall Islands,MH
+31,223,Maryland,MD
+32,223,Massachusetts,MA
+33,223,Michigan,MI
+34,223,Minnesota,MN
+35,223,Mississippi,MS
+36,223,Missouri,MO
+37,223,Montana,MT
+38,223,Nebraska,NE
+39,223,Nevada,NV
+40,223,New Hampshire,NH
+41,223,New Jersey,NJ
+42,223,New Mexico,NM
+43,223,New York,NY
+44,223,North Carolina,NC
+45,223,North Dakota,ND
+46,223,Northern Mariana Islands,MP
+47,223,Ohio,OH
+48,223,Oklahoma,OK
+49,223,Oregon,OR
+50,223,Palau,PW
+51,223,Pennsylvania,PA
+52,223,Puerto Rico,PR
+53,223,Rhode Island,RI
+54,223,South Carolina,SC
+55,223,South Dakota,SD
+56,223,Tennessee,TN
+57,223,Texas,TX
+58,223,Utah,UT
+59,223,Vermont,VT
+60,223,Virgin Islands,VI
+61,223,Virginia,VA
+62,223,Washington,WA
+63,223,West Virginia,WV
+64,223,Wisconsin,WI
+65,223,Wyoming,WY
+66,38,Alberta,AB
+67,38,British Columbia,BC
+68,38,Manitoba,MB
+69,38,Newfoundland,NF
+70,38,New Brunswick,NB
+71,38,Nova Scotia,NS
+72,38,Northwest Territories,NT
+73,38,Nunavut,NU
+74,38,Ontario,ON
+75,38,Prince Edward Island,PE
+76,38,Quebec,QC
+77,38,Saskatchewan,SK
+78,38,Yukon Territory,YT
+79,81,Niedersachsen,NDS
+80,81,Baden-WÃ¼rttemberg,BAW
+81,81,Bayern,BAY
+82,81,Berlin,BER
+83,81,Brandenburg,BRG
+84,81,Bremen,BRE
+85,81,Hamburg,HAM
+86,81,Hessen,HES
+87,81,Mecklenburg-Vorpommern,MEC
+88,81,Nordrhein-Westfalen,NRW
+89,81,Rheinland-Pfalz,RHE
+90,81,Saarland,SAR
+91,81,Sachsen,SAS
+92,81,Sachsen-Anhalt,SAC
+93,81,Schleswig-Holstein,SCN
+94,81,ThÃ¼ringen,THE
+95,14,Wien,WI
+96,14,NiederÃ¶sterreich,NO
+97,14,OberÃ¶sterreich,OO
+98,14,Salzburg,SB
+99,14,KÃ¤rnten,KN
+100,14,Steiermark,ST
+101,14,Tirol,TI
+102,14,Burgenland,BL
+103,14,Voralberg,VB
+104,204,Aargau,AG
+105,204,Appenzell Innerrhoden,AI
+106,204,Appenzell Ausserrhoden,AR
+107,204,Bern,BE
+108,204,Basel-Landschaft,BL
+109,204,Basel-Stadt,BS
+110,204,Freiburg,FR
+111,204,Genf,GE
+112,204,Glarus,GL
+113,204,GraubÃ¼nden,JU
+114,204,Jura,JU
+115,204,Luzern,LU
+116,204,Neuenburg,NE
+117,204,Nidwalden,NW
+118,204,Obwalden,OW
+119,204,St. Gallen,SG
+120,204,Schaffhausen,SH
+121,204,Solothurn,SO
+122,204,Schwyz,SZ
+123,204,Thurgau,TG
+124,204,Tessin,TI
+125,204,Uri,UR
+126,204,Waadt,VD
+127,204,Wallis,VS
+128,204,Zug,ZG
+129,204,ZÃ¼rich,ZH
+130,195,A CoruÃ±a,A CoruÃ±a
+131,195,Alava,Alava
+132,195,Albacete,Albacete
+133,195,Alicante,Alicante
+134,195,Almeria,Almeria
+135,195,Asturias,Asturias
+136,195,Avila,Avila
+137,195,Badajoz,Badajoz
+138,195,Baleares,Baleares
+139,195,Barcelona,Barcelona
+140,195,Burgos,Burgos
+141,195,Caceres,Caceres
+142,195,Cadiz,Cadiz
+143,195,Cantabria,Cantabria
+144,195,Castellon,Castellon
+145,195,Ceuta,Ceuta
+146,195,Ciudad Real,Ciudad Real
+147,195,Cordoba,Cordoba
+148,195,Cuenca,Cuenca
+149,195,Girona,Girona
+150,195,Granada,Granada
+151,195,Guadalajara,Guadalajara
+152,195,Guipuzcoa,Guipuzcoa
+153,195,Huelva,Huelva
+154,195,Huesca,Huesca
+155,195,Jaen,Jaen
+156,195,La Rioja,La Rioja
+157,195,Las Palmas,Las Palmas
+158,195,Leon,Leon
+159,195,Lleida,Lleida
+160,195,Lugo,Lugo
+161,195,Madrid,Madrid
+162,195,Malaga,Malaga
+163,195,Melilla,Melilla
+164,195,Murcia,Murcia
+165,195,Navarra,Navarra
+166,195,Ourense,Ourense
+167,195,Palencia,Palencia
+168,195,Pontevedra,Pontevedra
+169,195,Salamanca,Salamanca
+170,195,Santa Cruz de Tenerife,Santa Cruz de Tenerife
+171,195,Segovia,Segovia
+172,195,Sevilla,Sevilla
+173,195,Soria,Soria
+174,195,Tarragona,Tarragona
+175,195,Teruel,Teruel
+176,195,Toledo,Toledo
+177,195,Valencia,Valencia
+178,195,Valladolid,Valladolid
+179,195,Vizcaya,Vizcaya
+180,195,Zamora,Zamora
+181,195,Zaragoza,Zaragoza
+

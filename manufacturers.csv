@@ -1,0 +1,12 @@
+manufacturers_id,date_added,last_modified,manufacturers_name,manufacturers_image
+1,2003-07-17 10:29:23,NULL,Matrox,manufacturer_matrox.gif
+2,2003-07-17 10:29:23,NULL,Microsoft,manufacturer_microsoft.gif
+3,2003-07-17 10:29:23,NULL,Warner,manufacturer_warner.gif
+4,2003-07-17 10:29:23,NULL,Fox,manufacturer_fox.gif
+5,2003-07-17 10:29:23,NULL,Logitech,manufacturer_logitech.gif
+6,2003-07-17 10:29:23,NULL,Canon,manufacturer_canon.gif
+7,2003-07-17 10:29:23,NULL,Sierra,manufacturer_sierra.gif
+8,2003-07-17 10:29:23,NULL,GT Interactive,manufacturer_gt_interactive.gif
+9,2003-07-17 10:29:23,NULL,Hewlett Packard,manufacturer_hewlett_packard.gif
+10,2003-11-07 20:24:36,2003-11-07 20:24:36,Gift Vouchers,<blank>
+

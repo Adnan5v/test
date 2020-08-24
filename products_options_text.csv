@@ -1,0 +1,46 @@
+language_id,products_options_text_id,products_options_name,products_options_instruct
+1,1,Color,Select color
+1,2,Size,Select Size
+1,3,Model,Please select a model
+1,4,Memory,Choose your memory option
+1,5,Version,Please select the version you want
+1,6,Test Option 1,<blank>
+1,7,Radio Check,Choose only one
+1,8,Test Text,Yor are limited to 64 Characters
+1,9,Checkbox Test,Please check you selection
+1,11,test,test one
+1,12,test,<blank>
+5,1,Color,Select color
+5,2,Size,Select Size
+5,3,Model,Please select a model
+5,4,Memory,Choose your memory option
+5,5,Version,Please select the version you want
+5,6,Test Option 1,<blank>
+5,7,Radio Check,Choose only one
+5,8,Test Text,Yor are limited to 64 Characters
+5,9,Checkbox Test,Please check you selection
+5,11,test,test one
+5,12,test,<blank>
+3,1,Color,Select color
+3,2,Size,Select Size
+3,3,Model,Please select a model
+3,4,Memory,Choose your memory option
+3,5,Version,Please select the version you want
+3,6,Test Option 1,<blank>
+3,7,Radio Check,Choose only one
+3,8,Test Text,Yor are limited to 64 Characters
+3,9,Checkbox Test,Please check you selection
+3,11,test,test one
+3,12,test,<blank>
+4,1,Color,Select color
+4,2,Size,Select Size
+4,3,Model,Please select a model
+4,4,Memory,Choose your memory option
+4,5,Version,Please select the version you want
+4,6,Test Option 1,<blank>
+4,7,Radio Check,Choose only one
+4,8,Test Text,Yor are limited to 64 Characters
+4,9,Checkbox Test,Please check you selection
+4,11,test,test one
+4,12,test,<blank>
+

@@ -1,0 +1,42 @@
+ship_methods_id,date_added,ship_method,ship_method_sort,ship_method_language
+1,2005-12-27 22:28:59,FedEx Priority to Canada,0,1
+2,2006-09-05 20:19:54,FedEx Priority to USA,0,1
+3,2006-09-05 20:19:54,FedEx Priority International,0,1
+4,2006-09-05 20:19:54,Canada Xpresspost Post shipping,0,1
+5,2006-09-05 20:19:54,Canada USA Xpresspost shipping USA,0,1
+6,2006-09-05 20:19:54,Canada Post Standard Airmail shipping,0,1
+7,2006-09-05 20:19:54,UPS Ground,0,1
+8,2006-09-05 20:19:54,UPS Overnight,0,1
+9,2006-09-05 20:19:54,USPS Parcel Post,0,1
+10,2006-09-05 20:19:54,USPS Priority Mail,0,1
+1,2005-12-27 22:28:59,FedEx Priority to Canada,0,5
+2,2006-09-05 20:19:54,FedEx Priority to USA,0,5
+3,2006-09-05 20:19:54,FedEx Priority International,0,5
+4,2006-09-05 20:19:54,Canada Xpresspost Post shipping,0,5
+5,2006-09-05 20:19:54,Canada USA Xpresspost shipping USA,0,5
+6,2006-09-05 20:19:54,Canada Post Standard Airmail shipping,0,5
+7,2006-09-05 20:19:54,UPS Ground,0,5
+8,2006-09-05 20:19:54,UPS Overnight,0,5
+9,2006-09-05 20:19:54,USPS Parcel Post,0,5
+10,2006-09-05 20:19:54,USPS Priority Mail,0,5
+1,2005-12-27 22:28:59,FedEx Priority to Canada,0,3
+2,2006-09-05 20:19:54,FedEx Priority to USA,0,3
+3,2006-09-05 20:19:54,FedEx Priority International,0,3
+4,2006-09-05 20:19:54,Canada Xpresspost Post shipping,0,3
+5,2006-09-05 20:19:54,Canada USA Xpresspost shipping USA,0,3
+6,2006-09-05 20:19:54,Canada Post Standard Airmail shipping,0,3
+7,2006-09-05 20:19:54,UPS Ground,0,3
+8,2006-09-05 20:19:54,UPS Overnight,0,3
+9,2006-09-05 20:19:54,USPS Parcel Post,0,3
+10,2006-09-05 20:19:54,USPS Priority Mail,0,3
+1,2005-12-27 22:28:59,FedEx Priority to Canada,0,4
+2,2006-09-05 20:19:54,FedEx Priority to USA,0,4
+3,2006-09-05 20:19:54,FedEx Priority International,0,4
+4,2006-09-05 20:19:54,Canada Xpresspost Post shipping,0,4
+5,2006-09-05 20:19:54,Canada USA Xpresspost shipping USA,0,4
+6,2006-09-05 20:19:54,Canada Post Standard Airmail shipping,0,4
+7,2006-09-05 20:19:54,UPS Ground,0,4
+8,2006-09-05 20:19:54,UPS Overnight,0,4
+9,2006-09-05 20:19:54,USPS Parcel Post,0,4
+10,2006-09-05 20:19:54,USPS Priority Mail,0,4
+
